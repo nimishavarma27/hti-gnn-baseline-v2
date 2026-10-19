@@ -1,0 +1,621 @@
+herb,compounds in herb,rank,target,protein_id,aggregation,folds in top 10
+Acmella paniculata,32,1,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,5
+Acmella paniculata,32,2,AKR1B1 (Aldo-keto reductase family 1 member B1),UNIPROT:P15121,max,3
+Acmella paniculata,32,3,PTPRE (Receptor-type tyrosine-protein phosphatase epsilon),UNIPROT:P23469,max,4
+Acmella paniculata,32,4,PTPN6 (Tyrosine-protein phosphatase non-receptor type 6),UNIPROT:P29350,max,3
+Acmella paniculata,32,5,CHRNA6 (Neuronal acetylcholine receptor subunit alpha-6),UNIPROT:Q15825,max,4
+Acmella paniculata,32,6,CHRND (Acetylcholine receptor subunit delta),UNIPROT:Q07001,max,3
+Acmella paniculata,32,7,CHRNA5 (Neuronal acetylcholine receptor subunit alpha-5),UNIPROT:P30532,max,2
+Acmella paniculata,32,8,CHRNA1 (Acetylcholine receptor subunit alpha),UNIPROT:P02708,max,3
+Acmella paniculata,32,9,PTPN11 (Tyrosine-protein phosphatase non-receptor type 11),UNIPROT:Q06124,max,3
+Acmella paniculata,32,10,CHRNB3 (Neuronal acetylcholine receptor subunit beta-3),UNIPROT:Q05901,max,2
+Acorus calamus,255,1,GABRB3 (Gamma-aminobutyric acid receptor subunit beta-3),UNIPROT:P28472,max,5
+Acorus calamus,255,2,GABRG1 (Gamma-aminobutyric acid receptor subunit gamma-1),UNIPROT:Q8N1C3,max,5
+Acorus calamus,255,3,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,5
+Acorus calamus,255,4,PTPRE (Receptor-type tyrosine-protein phosphatase epsilon),UNIPROT:P23469,max,4
+Acorus calamus,255,5,GABRB1 (Gamma-aminobutyric acid receptor subunit beta-1),UNIPROT:P18505,max,5
+Acorus calamus,255,6,GABRA3 (Gamma-aminobutyric acid receptor subunit alpha-3),UNIPROT:P34903,max,5
+Acorus calamus,255,7,GABRA5 (Gamma-aminobutyric acid receptor subunit alpha-5),UNIPROT:P31644,max,5
+Acorus calamus,255,8,PTPRA (Receptor-type tyrosine-protein phosphatase alpha),UNIPROT:P18433,max,3
+Acorus calamus,255,9,GABRG3 (Gamma-aminobutyric acid receptor subunit gamma-3),UNIPROT:Q99928,max,4
+Acorus calamus,255,10,GABRA6 (Gamma-aminobutyric acid receptor subunit alpha-6),UNIPROT:Q16445,max,2
+Aegle marmelos,136,1,GABRB3 (Gamma-aminobutyric acid receptor subunit beta-3),UNIPROT:P28472,max,5
+Aegle marmelos,136,2,GABRG1 (Gamma-aminobutyric acid receptor subunit gamma-1),UNIPROT:Q8N1C3,max,5
+Aegle marmelos,136,3,PTPRE (Receptor-type tyrosine-protein phosphatase epsilon),UNIPROT:P23469,max,4
+Aegle marmelos,136,4,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,5
+Aegle marmelos,136,5,GABRB1 (Gamma-aminobutyric acid receptor subunit beta-1),UNIPROT:P18505,max,4
+Aegle marmelos,136,6,GABRA3 (Gamma-aminobutyric acid receptor subunit alpha-3),UNIPROT:P34903,max,5
+Aegle marmelos,136,7,GABRA5 (Gamma-aminobutyric acid receptor subunit alpha-5),UNIPROT:P31644,max,5
+Aegle marmelos,136,8,PTPRA (Receptor-type tyrosine-protein phosphatase alpha),UNIPROT:P18433,max,4
+Aegle marmelos,136,9,GABRG3 (Gamma-aminobutyric acid receptor subunit gamma-3),UNIPROT:Q99928,max,3
+Aegle marmelos,136,10,GABRA6 (Gamma-aminobutyric acid receptor subunit alpha-6),UNIPROT:Q16445,max,1
+Ailanthus triphysa,20,1,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,4
+Ailanthus triphysa,20,2,CA13 (Carbonic anhydrase 13),UNIPROT:Q8N1Q1,max,5
+Ailanthus triphysa,20,3,DUSP3 (Dual specificity protein phosphatase 3),UNIPROT:P51452,max,4
+Ailanthus triphysa,20,4,ERBB2 (Receptor tyrosine-protein kinase erbB-2),UNIPROT:P04626,max,3
+Ailanthus triphysa,20,5,RAPGEF4 (Rap guanine nucleotide exchange factor 4),UNIPROT:Q8WZA2,max,3
+Ailanthus triphysa,20,6,PTPN6 (Tyrosine-protein phosphatase non-receptor type 6),UNIPROT:P29350,max,2
+Ailanthus triphysa,20,7,EGLN1 (Egl nine homolog 1),UNIPROT:Q9GZT9,max,2
+Ailanthus triphysa,20,8,AKT2 (RAC-beta serine/threonine-protein kinase),UNIPROT:P31751,max,2
+Ailanthus triphysa,20,9,PTPN11 (Tyrosine-protein phosphatase non-receptor type 11),UNIPROT:Q06124,max,1
+Ailanthus triphysa,20,10,PTPN7 (Tyrosine-protein phosphatase non-receptor type 7),UNIPROT:P35236,max,0
+Andrographis paniculata,39,1,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,5
+Andrographis paniculata,39,2,UGT2B7 (UDP-glucuronosyltransferase 2B7),UNIPROT:P16662,max,5
+Andrographis paniculata,39,3,UGT2B4 (UDP-glucuronosyltransferase 2B4),UNIPROT:P06133,max,3
+Andrographis paniculata,39,4,EGLN1 (Egl nine homolog 1),UNIPROT:Q9GZT9,max,3
+Andrographis paniculata,39,5,UGT2B10 (UDP-glucuronosyltransferase 2B10),UNIPROT:P36537,max,2
+Andrographis paniculata,39,6,RECQL (ATP-dependent DNA helicase Q1),UNIPROT:P46063,max,3
+Andrographis paniculata,39,7,USP7 (Ubiquitin C-terminal hydrolase 7),UNIPROT:Q93009,max,2
+Andrographis paniculata,39,8,SNCA (Alpha-synuclein),UNIPROT:P37840,max,2
+Andrographis paniculata,39,9,EGLN3 (Prolyl hydroxylase EGLN3),UNIPROT:Q9H6Z9,max,2
+Andrographis paniculata,39,10,PTPRF (Receptor-type tyrosine-protein phosphatase F),UNIPROT:P10586,max,2
+Aphanamixis polystachya,33,1,PTPRE (Receptor-type tyrosine-protein phosphatase epsilon),UNIPROT:P23469,max,5
+Aphanamixis polystachya,33,2,PTPRA (Receptor-type tyrosine-protein phosphatase alpha),UNIPROT:P18433,max,5
+Aphanamixis polystachya,33,3,AKR1B1 (Aldo-keto reductase family 1 member B1),UNIPROT:P15121,max,5
+Aphanamixis polystachya,33,4,APP (Amyloid-beta precursor protein),UNIPROT:P05067,max,2
+Aphanamixis polystachya,33,5,TP53 (Cellular tumor antigen p53),UNIPROT:P04637,max,2
+Aphanamixis polystachya,33,6,ALOX5 (Polyunsaturated fatty acid 5-lipoxygenase),UNIPROT:P09917,max,1
+Aphanamixis polystachya,33,7,USP7 (Ubiquitin C-terminal hydrolase 7),UNIPROT:Q93009,max,3
+Aphanamixis polystachya,33,8,SMN1 (Survival motor neuron protein),UNIPROT:Q16637,max,1
+Aphanamixis polystachya,33,9,AKR1B10 (Aldo-keto reductase family 1 member B10),UNIPROT:O60218,max,1
+Aphanamixis polystachya,33,10,SLCO2B1 (Solute carrier organic anion transporter family member 2B1),UNIPROT:O94956,max,2
+Asparagus gonoclados,6,1,DRD3 (Dopamine receptor D3),UNIPROT:P35462,max,5
+Asparagus gonoclados,6,2,CHRM1 (Muscarinic acetylcholine receptor M1),UNIPROT:P11229,max,4
+Asparagus gonoclados,6,3,UGT1A9 (UDP-glucuronosyltransferase 1A9),UNIPROT:O60656,max,3
+Asparagus gonoclados,6,4,HTR2B (5-hydroxytryptamine receptor 2B),UNIPROT:P41595,max,4
+Asparagus gonoclados,6,5,DRD1 (Dopamine receptor D1),UNIPROT:P21728,max,2
+Asparagus gonoclados,6,6,HTR1A (5-hydroxytryptamine receptor 1A),UNIPROT:P08908,max,3
+Asparagus gonoclados,6,7,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,1
+Asparagus gonoclados,6,8,CBX1 (Chromobox protein homolog 1),UNIPROT:P83916,max,1
+Asparagus gonoclados,6,9,UGT1A6 (UDP-glucuronosyltransferase 1A6),UNIPROT:P19224,max,2
+Asparagus gonoclados,6,10,SNCA (Alpha-synuclein),UNIPROT:P37840,max,1
+Asparagus racemosus,19,1,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,5
+Asparagus racemosus,19,2,UGT2A1 (UDP-glucuronosyltransferase 2A1),UNIPROT:P0DTE4,max,5
+Asparagus racemosus,19,3,UGT2B17 (UDP-glucuronosyltransferase 2B17),UNIPROT:O75795,max,4
+Asparagus racemosus,19,4,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,3
+Asparagus racemosus,19,5,UGT2B7 (UDP-glucuronosyltransferase 2B7),UNIPROT:P16662,max,4
+Asparagus racemosus,19,6,KAT2A (Histone acetyltransferase KAT2A),UNIPROT:Q92830,max,1
+Asparagus racemosus,19,7,CA13 (Carbonic anhydrase 13),UNIPROT:Q8N1Q1,max,3
+Asparagus racemosus,19,8,PKM (Pyruvate kinase PKM),UNIPROT:P14618,max,2
+Asparagus racemosus,19,9,UGT2B4 (UDP-glucuronosyltransferase 2B4),UNIPROT:P06133,max,2
+Asparagus racemosus,19,10,RAPGEF4 (Rap guanine nucleotide exchange factor 4),UNIPROT:Q8WZA2,max,2
+Azadirachta indica,236,1,TRPV1 (Transient receptor potential cation channel subfamily V member 1),UNIPROT:Q8NER1,max,5
+Azadirachta indica,236,2,EGLN1 (Egl nine homolog 1),UNIPROT:Q9GZT9,max,3
+Azadirachta indica,236,3,OR5K1 (Olfactory receptor 5K1),UNIPROT:Q8NHB7,max,1
+Azadirachta indica,236,4,EGLN2 (Prolyl hydroxylase EGLN2),UNIPROT:Q96KS0,max,0
+Azadirachta indica,236,5,P4HTM (Transmembrane prolyl 4-hydroxylase),UNIPROT:Q9NXG6,max,1
+Azadirachta indica,236,6,EGLN3 (Prolyl hydroxylase EGLN3),UNIPROT:Q9H6Z9,max,1
+Azadirachta indica,236,7,BRCA1 (Breast cancer type 1 susceptibility protein),UNIPROT:P38398,max,0
+Azadirachta indica,236,8,GABRG1 (Gamma-aminobutyric acid receptor subunit gamma-1),UNIPROT:Q8N1C3,max,2
+Azadirachta indica,236,9,GABRA5 (Gamma-aminobutyric acid receptor subunit alpha-5),UNIPROT:P31644,max,2
+Azadirachta indica,236,10,GPBAR1 (G protein-coupled bile acid receptor 1),UNIPROT:Q8TDU6,max,1
+Bacopa monnieri,35,1,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,4
+Bacopa monnieri,35,2,PTPN6 (Tyrosine-protein phosphatase non-receptor type 6),UNIPROT:P29350,max,3
+Bacopa monnieri,35,3,USP7 (Ubiquitin C-terminal hydrolase 7),UNIPROT:Q93009,max,2
+Bacopa monnieri,35,4,TRPV1 (Transient receptor potential cation channel subfamily V member 1),UNIPROT:Q8NER1,max,3
+Bacopa monnieri,35,5,DUSP3 (Dual specificity protein phosphatase 3),UNIPROT:P51452,max,1
+Bacopa monnieri,35,6,KDM1A (Lysine-specific histone demethylase 1A),UNIPROT:O60341,max,2
+Bacopa monnieri,35,7,PTPN11 (Tyrosine-protein phosphatase non-receptor type 11),UNIPROT:Q06124,max,0
+Bacopa monnieri,35,8,CES2 (Cocaine esterase),UNIPROT:O00748,max,1
+Bacopa monnieri,35,9,CES1 (Liver carboxylesterase 1),UNIPROT:P23141,max,2
+Bacopa monnieri,35,10,PTPRF (Receptor-type tyrosine-protein phosphatase F),UNIPROT:P10586,max,0
+Baliospermum solanifolium,10,1,PTPN1 (Tyrosine-protein phosphatase non-receptor type 1),UNIPROT:P18031,max,4
+Baliospermum solanifolium,10,2,PTGS2 (Prostaglandin G/H synthase 2),UNIPROT:P35354,max,5
+Baliospermum solanifolium,10,3,SLCO1B1 (Solute carrier organic anion transporter family member 1B1),UNIPROT:Q9Y6L6,max,4
+Baliospermum solanifolium,10,4,TDP1 (Tyrosyl-DNA phosphodiesterase 1),UNIPROT:Q9NUW8,max,2
+Baliospermum solanifolium,10,5,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,4
+Baliospermum solanifolium,10,6,HDAC6 (Protein deacetylase HDAC6),UNIPROT:Q9UBN7,max,1
+Baliospermum solanifolium,10,7,PTGS1 (Prostaglandin G/H synthase 1),UNIPROT:P23219,max,2
+Baliospermum solanifolium,10,8,AR (Androgen receptor),UNIPROT:P10275,max,0
+Baliospermum solanifolium,10,9,NFE2L2 (Nuclear factor erythroid 2-related factor 2),UNIPROT:Q16236,max,3
+Baliospermum solanifolium,10,10,ALOX5 (Polyunsaturated fatty acid 5-lipoxygenase),UNIPROT:P09917,max,2
+Boerhavia diffusa,50,1,CHRNA7 (Neuronal acetylcholine receptor subunit alpha-7),UNIPROT:P36544,max,4
+Boerhavia diffusa,50,2,PTPN11 (Tyrosine-protein phosphatase non-receptor type 11),UNIPROT:Q06124,max,3
+Boerhavia diffusa,50,3,CHRNA5 (Neuronal acetylcholine receptor subunit alpha-5),UNIPROT:P30532,max,3
+Boerhavia diffusa,50,4,TP53 (Cellular tumor antigen p53),UNIPROT:P04637,max,2
+Boerhavia diffusa,50,5,CHRNA2 (Neuronal acetylcholine receptor subunit alpha-2),UNIPROT:Q15822,max,3
+Boerhavia diffusa,50,6,CHRND (Acetylcholine receptor subunit delta),UNIPROT:Q07001,max,3
+Boerhavia diffusa,50,7,ABCC1 (ATP-binding cassette sub-family C member 1),UNIPROT:P33527,max,1
+Boerhavia diffusa,50,8,CHRNE (Acetylcholine receptor subunit epsilon),UNIPROT:Q04844,max,2
+Boerhavia diffusa,50,9,ATXN2 (Ataxin-2),UNIPROT:Q99700,max,1
+Boerhavia diffusa,50,10,CHRNA6 (Neuronal acetylcholine receptor subunit alpha-6),UNIPROT:Q15825,max,2
+Bombax ceiba,41,1,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,5
+Bombax ceiba,41,2,TRPV1 (Transient receptor potential cation channel subfamily V member 1),UNIPROT:Q8NER1,max,2
+Bombax ceiba,41,3,PTPN11 (Tyrosine-protein phosphatase non-receptor type 11),UNIPROT:Q06124,max,2
+Bombax ceiba,41,4,EGLN1 (Egl nine homolog 1),UNIPROT:Q9GZT9,max,2
+Bombax ceiba,41,5,CBFB (Core-binding factor subunit beta),UNIPROT:Q13951,max,2
+Bombax ceiba,41,6,AKT2 (RAC-beta serine/threonine-protein kinase),UNIPROT:P31751,max,1
+Bombax ceiba,41,7,PTPN6 (Tyrosine-protein phosphatase non-receptor type 6),UNIPROT:P29350,max,2
+Bombax ceiba,41,8,BRCA1 (Breast cancer type 1 susceptibility protein),UNIPROT:P38398,max,1
+Bombax ceiba,41,9,F10 (Coagulation factor X),UNIPROT:P00742,max,1
+Bombax ceiba,41,10,PKM (Pyruvate kinase PKM),UNIPROT:P14618,max,0
+Centella asiatica,82,1,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,4
+Centella asiatica,82,2,PTPN7 (Tyrosine-protein phosphatase non-receptor type 7),UNIPROT:P35236,max,5
+Centella asiatica,82,3,TARDBP (TAR DNA-binding protein 43),UNIPROT:Q13148,max,3
+Centella asiatica,82,4,GABRR2 (Gamma-aminobutyric acid receptor subunit rho-2),UNIPROT:P28476,max,3
+Centella asiatica,82,5,CA13 (Carbonic anhydrase 13),UNIPROT:Q8N1Q1,max,3
+Centella asiatica,82,6,GABRR1 (Gamma-aminobutyric acid receptor subunit rho-1),UNIPROT:P24046,max,3
+Centella asiatica,82,7,UGT2B17 (UDP-glucuronosyltransferase 2B17),UNIPROT:O75795,max,2
+Centella asiatica,82,8,UGT2B7 (UDP-glucuronosyltransferase 2B7),UNIPROT:P16662,max,3
+Centella asiatica,82,9,TRPV3 (Transient receptor potential cation channel subfamily V member 3),UNIPROT:Q8NET8,max,3
+Centella asiatica,82,10,"ALDH2 (Aldehyde dehydrogenase, mitochondrial)",UNIPROT:P05091,max,2
+Cinnamomum tamala,160,1,GABRB3 (Gamma-aminobutyric acid receptor subunit beta-3),UNIPROT:P28472,max,5
+Cinnamomum tamala,160,2,GABRG1 (Gamma-aminobutyric acid receptor subunit gamma-1),UNIPROT:Q8N1C3,max,5
+Cinnamomum tamala,160,3,GABRB1 (Gamma-aminobutyric acid receptor subunit beta-1),UNIPROT:P18505,max,5
+Cinnamomum tamala,160,4,GABRA3 (Gamma-aminobutyric acid receptor subunit alpha-3),UNIPROT:P34903,max,5
+Cinnamomum tamala,160,5,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,4
+Cinnamomum tamala,160,6,GABRA5 (Gamma-aminobutyric acid receptor subunit alpha-5),UNIPROT:P31644,max,5
+Cinnamomum tamala,160,7,GABRG3 (Gamma-aminobutyric acid receptor subunit gamma-3),UNIPROT:Q99928,max,4
+Cinnamomum tamala,160,8,GABRA6 (Gamma-aminobutyric acid receptor subunit alpha-6),UNIPROT:Q16445,max,2
+Cinnamomum tamala,160,9,GABRA4 (Gamma-aminobutyric acid receptor subunit alpha-4),UNIPROT:P48169,max,2
+Cinnamomum tamala,160,10,UGT2B7 (UDP-glucuronosyltransferase 2B7),UNIPROT:P16662,max,3
+Cinnamomum verum,269,1,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,5
+Cinnamomum verum,269,2,GABRG1 (Gamma-aminobutyric acid receptor subunit gamma-1),UNIPROT:Q8N1C3,max,5
+Cinnamomum verum,269,3,GABRB1 (Gamma-aminobutyric acid receptor subunit beta-1),UNIPROT:P18505,max,5
+Cinnamomum verum,269,4,GABRA3 (Gamma-aminobutyric acid receptor subunit alpha-3),UNIPROT:P34903,max,5
+Cinnamomum verum,269,5,GABRA5 (Gamma-aminobutyric acid receptor subunit alpha-5),UNIPROT:P31644,max,4
+Cinnamomum verum,269,6,PTPN1 (Tyrosine-protein phosphatase non-receptor type 1),UNIPROT:P18031,max,4
+Cinnamomum verum,269,7,GABRG3 (Gamma-aminobutyric acid receptor subunit gamma-3),UNIPROT:Q99928,max,4
+Cinnamomum verum,269,8,GABRA6 (Gamma-aminobutyric acid receptor subunit alpha-6),UNIPROT:Q16445,max,2
+Cinnamomum verum,269,9,GABRA4 (Gamma-aminobutyric acid receptor subunit alpha-4),UNIPROT:P48169,max,2
+Cinnamomum verum,269,10,GABRE (Gamma-aminobutyric acid receptor subunit epsilon),UNIPROT:P78334,max,0
+Clitoria ternatea,33,1,CA13 (Carbonic anhydrase 13),UNIPROT:Q8N1Q1,max,5
+Clitoria ternatea,33,2,TRPA1 (Transient receptor potential cation channel subfamily A member 1),UNIPROT:O75762,max,4
+Clitoria ternatea,33,3,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,5
+Clitoria ternatea,33,4,TPMT (Thiopurine S-methyltransferase),UNIPROT:P51580,max,2
+Clitoria ternatea,33,5,GPR84 (G protein-coupled receptor 84),UNIPROT:Q9NQS5,max,3
+Clitoria ternatea,33,6,TRPV1 (Transient receptor potential cation channel subfamily V member 1),UNIPROT:Q8NER1,max,3
+Clitoria ternatea,33,7,TARDBP (TAR DNA-binding protein 43),UNIPROT:Q13148,max,3
+Clitoria ternatea,33,8,GLA (Alpha-galactosidase A),UNIPROT:P06280,max,1
+Clitoria ternatea,33,9,BAZ2B (Bromodomain adjacent to zinc finger domain protein 2B),UNIPROT:Q9UIF8,max,1
+Clitoria ternatea,33,10,CXCL8 (Interleukin-8),UNIPROT:P10145,max,1
+Convolvulus prostratus,18,1,NFE2L2 (Nuclear factor erythroid 2-related factor 2),UNIPROT:Q16236,max,5
+Convolvulus prostratus,18,2,AR (Androgen receptor),UNIPROT:P10275,max,5
+Convolvulus prostratus,18,3,PPARD (Peroxisome proliferator-activated receptor delta),UNIPROT:Q03181,max,5
+Convolvulus prostratus,18,4,HSPB1 (Heat shock protein beta-1),UNIPROT:P04792,max,4
+Convolvulus prostratus,18,5,USP1 (Ubiquitin carboxyl-terminal hydrolase 1),UNIPROT:O94782,max,5
+Convolvulus prostratus,18,6,CBX1 (Chromobox protein homolog 1),UNIPROT:P83916,max,3
+Convolvulus prostratus,18,7,PPARG (Peroxisome proliferator-activated receptor gamma),UNIPROT:P37231,max,1
+Convolvulus prostratus,18,8,JUN (Transcription factor Jun),UNIPROT:P05412,max,1
+Convolvulus prostratus,18,9,NR1H4 (Bile acid receptor),UNIPROT:Q96RI1,max,2
+Convolvulus prostratus,18,10,TSHR (Thyrotropin receptor),UNIPROT:P16473,max,2
+Curculigo orchioides,37,1,THRB (Thyroid hormone receptor beta),UNIPROT:P10828,max,5
+Curculigo orchioides,37,2,TRPV1 (Transient receptor potential cation channel subfamily V member 1),UNIPROT:Q8NER1,max,4
+Curculigo orchioides,37,3,AKR1B1 (Aldo-keto reductase family 1 member B1),UNIPROT:P15121,max,3
+Curculigo orchioides,37,4,ALOX5 (Polyunsaturated fatty acid 5-lipoxygenase),UNIPROT:P09917,max,1
+Curculigo orchioides,37,5,UGT1A4 (UDP-glucuronosyltransferase 1A4),UNIPROT:P22310,max,3
+Curculigo orchioides,37,6,TRPA1 (Transient receptor potential cation channel subfamily A member 1),UNIPROT:O75762,max,2
+Curculigo orchioides,37,7,GPR84 (G protein-coupled receptor 84),UNIPROT:Q9NQS5,max,2
+Curculigo orchioides,37,8,UGT1A1 (UDP-glucuronosyltransferase 1A1),UNIPROT:P22309,max,3
+Curculigo orchioides,37,9,UGT1A3 (UDP-glucuronosyltransferase 1A3),UNIPROT:P35503,max,3
+Curculigo orchioides,37,10,TP53 (Cellular tumor antigen p53),UNIPROT:P04637,max,1
+Curcuma longa,189,1,GABRB3 (Gamma-aminobutyric acid receptor subunit beta-3),UNIPROT:P28472,max,5
+Curcuma longa,189,2,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,5
+Curcuma longa,189,3,GABRG1 (Gamma-aminobutyric acid receptor subunit gamma-1),UNIPROT:Q8N1C3,max,5
+Curcuma longa,189,4,GABRB1 (Gamma-aminobutyric acid receptor subunit beta-1),UNIPROT:P18505,max,4
+Curcuma longa,189,5,PTPN6 (Tyrosine-protein phosphatase non-receptor type 6),UNIPROT:P29350,max,4
+Curcuma longa,189,6,GABRA3 (Gamma-aminobutyric acid receptor subunit alpha-3),UNIPROT:P34903,max,5
+Curcuma longa,189,7,PTPN11 (Tyrosine-protein phosphatase non-receptor type 11),UNIPROT:Q06124,max,4
+Curcuma longa,189,8,GABRA5 (Gamma-aminobutyric acid receptor subunit alpha-5),UNIPROT:P31644,max,3
+Curcuma longa,189,9,PTPRE (Receptor-type tyrosine-protein phosphatase epsilon),UNIPROT:P23469,max,4
+Curcuma longa,189,10,DUSP3 (Dual specificity protein phosphatase 3),UNIPROT:P51452,max,3
+Cyperus rotundus,170,1,GABRB3 (Gamma-aminobutyric acid receptor subunit beta-3),UNIPROT:P28472,max,5
+Cyperus rotundus,170,2,GABRG1 (Gamma-aminobutyric acid receptor subunit gamma-1),UNIPROT:Q8N1C3,max,5
+Cyperus rotundus,170,3,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,5
+Cyperus rotundus,170,4,GABRB1 (Gamma-aminobutyric acid receptor subunit beta-1),UNIPROT:P18505,max,5
+Cyperus rotundus,170,5,GABRA3 (Gamma-aminobutyric acid receptor subunit alpha-3),UNIPROT:P34903,max,5
+Cyperus rotundus,170,6,GABRA5 (Gamma-aminobutyric acid receptor subunit alpha-5),UNIPROT:P31644,max,5
+Cyperus rotundus,170,7,GABRG3 (Gamma-aminobutyric acid receptor subunit gamma-3),UNIPROT:Q99928,max,4
+Cyperus rotundus,170,8,GABRA6 (Gamma-aminobutyric acid receptor subunit alpha-6),UNIPROT:Q16445,max,2
+Cyperus rotundus,170,9,GABRA4 (Gamma-aminobutyric acid receptor subunit alpha-4),UNIPROT:P48169,max,2
+Cyperus rotundus,170,10,UGT2B17 (UDP-glucuronosyltransferase 2B17),UNIPROT:O75795,max,2
+Dalbergia latifolia,21,1,PPARD (Peroxisome proliferator-activated receptor delta),UNIPROT:Q03181,max,5
+Dalbergia latifolia,21,2,AKR1B1 (Aldo-keto reductase family 1 member B1),UNIPROT:P15121,max,5
+Dalbergia latifolia,21,3,USP1 (Ubiquitin carboxyl-terminal hydrolase 1),UNIPROT:O94782,max,4
+Dalbergia latifolia,21,4,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,4
+Dalbergia latifolia,21,5,GMNN (Geminin),UNIPROT:O75496,max,4
+Dalbergia latifolia,21,6,POLK (DNA polymerase kappa),UNIPROT:Q9UBT6,max,3
+Dalbergia latifolia,21,7,NR1H4 (Bile acid receptor),UNIPROT:Q96RI1,max,2
+Dalbergia latifolia,21,8,SLCO2B1 (Solute carrier organic anion transporter family member 2B1),UNIPROT:O94956,max,0
+Dalbergia latifolia,21,9,ALOX5 (Polyunsaturated fatty acid 5-lipoxygenase),UNIPROT:P09917,max,2
+Dalbergia latifolia,21,10,CBX1 (Chromobox protein homolog 1),UNIPROT:P83916,max,0
+Dalbergia sissoo,31,1,TYR (Tyrosinase),UNIPROT:P14679,max,4
+Dalbergia sissoo,31,2,ALOX5 (Polyunsaturated fatty acid 5-lipoxygenase),UNIPROT:P09917,max,4
+Dalbergia sissoo,31,3,CA3 (Carbonic anhydrase 3),UNIPROT:P07451,max,4
+Dalbergia sissoo,31,4,"CA5B (Carbonic anhydrase 5B, mitochondrial)",UNIPROT:Q9Y2D0,max,4
+Dalbergia sissoo,31,5,XDH (Xanthine dehydrogenase/oxidase),UNIPROT:P47989,max,2
+Dalbergia sissoo,31,6,ERAP1 (Endoplasmic reticulum aminopeptidase 1),UNIPROT:Q9NZ08,max,3
+Dalbergia sissoo,31,7,SMAD3 (SMAD family member 3),UNIPROT:P84022,max,3
+Dalbergia sissoo,31,8,CXCL8 (Interleukin-8),UNIPROT:P10145,max,2
+Dalbergia sissoo,31,9,TRPV1 (Transient receptor potential cation channel subfamily V member 1),UNIPROT:Q8NER1,max,1
+Dalbergia sissoo,31,10,CA13 (Carbonic anhydrase 13),UNIPROT:Q8N1Q1,max,1
+Elettaria cardamomum,110,1,UGT1A3 (UDP-glucuronosyltransferase 1A3),UNIPROT:P35503,max,5
+Elettaria cardamomum,110,2,GABRB3 (Gamma-aminobutyric acid receptor subunit beta-3),UNIPROT:P28472,max,5
+Elettaria cardamomum,110,3,GABRG1 (Gamma-aminobutyric acid receptor subunit gamma-1),UNIPROT:Q8N1C3,max,5
+Elettaria cardamomum,110,4,PTPRE (Receptor-type tyrosine-protein phosphatase epsilon),UNIPROT:P23469,max,4
+Elettaria cardamomum,110,5,GABRB1 (Gamma-aminobutyric acid receptor subunit beta-1),UNIPROT:P18505,max,4
+Elettaria cardamomum,110,6,GABRA3 (Gamma-aminobutyric acid receptor subunit alpha-3),UNIPROT:P34903,max,5
+Elettaria cardamomum,110,7,GABRA5 (Gamma-aminobutyric acid receptor subunit alpha-5),UNIPROT:P31644,max,5
+Elettaria cardamomum,110,8,PTPRA (Receptor-type tyrosine-protein phosphatase alpha),UNIPROT:P18433,max,3
+Elettaria cardamomum,110,9,UGT2B15 (UDP-glucuronosyltransferase 2B15),UNIPROT:P54855,max,4
+Elettaria cardamomum,110,10,GABRG3 (Gamma-aminobutyric acid receptor subunit gamma-3),UNIPROT:Q99928,max,3
+Embelia ribes,6,1,AR (Androgen receptor),UNIPROT:P10275,max,4
+Embelia ribes,6,2,ATAD5 (ATPase family AAA domain-containing protein 5),UNIPROT:Q96QE3,max,4
+Embelia ribes,6,3,PTGS2 (Prostaglandin G/H synthase 2),UNIPROT:P35354,max,4
+Embelia ribes,6,4,CYP3A4 (Cytochrome P450 3A4),UNIPROT:P08684,max,4
+Embelia ribes,6,5,PTGS1 (Prostaglandin G/H synthase 1),UNIPROT:P23219,max,4
+Embelia ribes,6,6,NFKB1 (Nuclear factor NF-kappa-B p105 subunit),UNIPROT:P19838,max,3
+Embelia ribes,6,7,LMNA (Prelamin-A/C),UNIPROT:P02545,max,3
+Embelia ribes,6,8,PTPN1 (Tyrosine-protein phosphatase non-receptor type 1),UNIPROT:P18031,max,2
+Embelia ribes,6,9,ESR1 (Estrogen receptor),UNIPROT:P03372,max,3
+Embelia ribes,6,10,SMN1 (Survival motor neuron protein),UNIPROT:Q16637,max,2
+Embelia tsjeriam-cottam,1,1,CYP3A4 (Cytochrome P450 3A4),UNIPROT:P08684,max,4
+Embelia tsjeriam-cottam,1,2,EHMT2 (Histone-lysine N-methyltransferase EHMT2),UNIPROT:Q96KQ7,max,5
+Embelia tsjeriam-cottam,1,3,NFE2L2 (Nuclear factor erythroid 2-related factor 2),UNIPROT:Q16236,max,3
+Embelia tsjeriam-cottam,1,4,ATAD5 (ATPase family AAA domain-containing protein 5),UNIPROT:Q96QE3,max,3
+Embelia tsjeriam-cottam,1,5,NFKB1 (Nuclear factor NF-kappa-B p105 subunit),UNIPROT:P19838,max,3
+Embelia tsjeriam-cottam,1,6,LMNA (Prelamin-A/C),UNIPROT:P02545,max,2
+Embelia tsjeriam-cottam,1,7,ATXN2 (Ataxin-2),UNIPROT:Q99700,max,2
+Embelia tsjeriam-cottam,1,8,POLB (DNA polymerase beta),UNIPROT:P06746,max,2
+Embelia tsjeriam-cottam,1,9,RECQL (ATP-dependent DNA helicase Q1),UNIPROT:P46063,max,2
+Embelia tsjeriam-cottam,1,10,BRCA1 (Breast cancer type 1 susceptibility protein),UNIPROT:P38398,max,0
+Ficus racemosa,34,1,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,5
+Ficus racemosa,34,2,TRPA1 (Transient receptor potential cation channel subfamily A member 1),UNIPROT:O75762,max,3
+Ficus racemosa,34,3,JUN (Transcription factor Jun),UNIPROT:P05412,max,3
+Ficus racemosa,34,4,TRPV1 (Transient receptor potential cation channel subfamily V member 1),UNIPROT:Q8NER1,max,3
+Ficus racemosa,34,5,PTPN6 (Tyrosine-protein phosphatase non-receptor type 6),UNIPROT:P29350,max,3
+Ficus racemosa,34,6,BRCA1 (Breast cancer type 1 susceptibility protein),UNIPROT:P38398,max,3
+Ficus racemosa,34,7,EGLN1 (Egl nine homolog 1),UNIPROT:Q9GZT9,max,2
+Ficus racemosa,34,8,PCNA (DNA sliding clamp PCNA),UNIPROT:P12004,max,3
+Ficus racemosa,34,9,RAPGEF4 (Rap guanine nucleotide exchange factor 4),UNIPROT:Q8WZA2,max,1
+Ficus racemosa,34,10,VDR (Vitamin D3 receptor),UNIPROT:P11473,max,1
+Glycyrrhiza glabra,312,1,PTPRE (Receptor-type tyrosine-protein phosphatase epsilon),UNIPROT:P23469,max,5
+Glycyrrhiza glabra,312,2,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,5
+Glycyrrhiza glabra,312,3,PTPRA (Receptor-type tyrosine-protein phosphatase alpha),UNIPROT:P18433,max,4
+Glycyrrhiza glabra,312,4,UGT2B7 (UDP-glucuronosyltransferase 2B7),UNIPROT:P16662,max,4
+Glycyrrhiza glabra,312,5,PTPRF (Receptor-type tyrosine-protein phosphatase F),UNIPROT:P10586,max,3
+Glycyrrhiza glabra,312,6,USP7 (Ubiquitin C-terminal hydrolase 7),UNIPROT:Q93009,max,3
+Glycyrrhiza glabra,312,7,GABRR2 (Gamma-aminobutyric acid receptor subunit rho-2),UNIPROT:P28476,max,1
+Glycyrrhiza glabra,312,8,CHRNB4 (Neuronal acetylcholine receptor subunit beta-4),UNIPROT:P30926,max,3
+Glycyrrhiza glabra,312,9,GABRR1 (Gamma-aminobutyric acid receptor subunit rho-1),UNIPROT:P24046,max,1
+Glycyrrhiza glabra,312,10,GABRR3 (Gamma-aminobutyric acid receptor subunit rho-3),UNIPROT:A8MPY1,max,0
+Gymnema sylvestre,96,1,PTPRE (Receptor-type tyrosine-protein phosphatase epsilon),UNIPROT:P23469,max,4
+Gymnema sylvestre,96,2,TRPV1 (Transient receptor potential cation channel subfamily V member 1),UNIPROT:Q8NER1,max,4
+Gymnema sylvestre,96,3,PTPRA (Receptor-type tyrosine-protein phosphatase alpha),UNIPROT:P18433,max,5
+Gymnema sylvestre,96,4,AKR1B1 (Aldo-keto reductase family 1 member B1),UNIPROT:P15121,max,5
+Gymnema sylvestre,96,5,DUSP3 (Dual specificity protein phosphatase 3),UNIPROT:P51452,max,4
+Gymnema sylvestre,96,6,POLK (DNA polymerase kappa),UNIPROT:Q9UBT6,max,3
+Gymnema sylvestre,96,7,PTPN7 (Tyrosine-protein phosphatase non-receptor type 7),UNIPROT:P35236,max,2
+Gymnema sylvestre,96,8,PRKAB1 (5'-AMP-activated protein kinase subunit beta-1),UNIPROT:Q9Y478,max,2
+Gymnema sylvestre,96,9,PRKAG2 (5'-AMP-activated protein kinase subunit gamma-2),UNIPROT:Q9UGJ0,max,2
+Gymnema sylvestre,96,10,PRKAG1 (5'-AMP-activated protein kinase subunit gamma-1),UNIPROT:P54619,max,2
+Holostemma ada-kodien,3,1,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,5
+Holostemma ada-kodien,3,2,NFE2L2 (Nuclear factor erythroid 2-related factor 2),UNIPROT:Q16236,max,4
+Holostemma ada-kodien,3,3,TDP1 (Tyrosyl-DNA phosphodiesterase 1),UNIPROT:Q9NUW8,max,3
+Holostemma ada-kodien,3,4,PTGS1 (Prostaglandin G/H synthase 1),UNIPROT:P23219,max,4
+Holostemma ada-kodien,3,5,AKR1B1 (Aldo-keto reductase family 1 member B1),UNIPROT:P15121,max,2
+Holostemma ada-kodien,3,6,AKR1B10 (Aldo-keto reductase family 1 member B10),UNIPROT:O60218,max,3
+Holostemma ada-kodien,3,7,ALOX15 (Polyunsaturated fatty acid lipoxygenase ALOX15),UNIPROT:P16050,max,3
+Holostemma ada-kodien,3,8,MAPT (Microtubule-associated protein tau),UNIPROT:P10636,max,2
+Holostemma ada-kodien,3,9,GMNN (Geminin),UNIPROT:O75496,max,2
+Holostemma ada-kodien,3,10,CBX1 (Chromobox protein homolog 1),UNIPROT:P83916,max,1
+Ipomoea mauritiana,16,1,THRB (Thyroid hormone receptor beta),UNIPROT:P10828,max,5
+Ipomoea mauritiana,16,2,UGT1A6 (UDP-glucuronosyltransferase 1A6),UNIPROT:P19224,max,5
+Ipomoea mauritiana,16,3,TP53 (Cellular tumor antigen p53),UNIPROT:P04637,max,4
+Ipomoea mauritiana,16,4,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,2
+Ipomoea mauritiana,16,5,SLCO2B1 (Solute carrier organic anion transporter family member 2B1),UNIPROT:O94956,max,3
+Ipomoea mauritiana,16,6,AKR1B10 (Aldo-keto reductase family 1 member B10),UNIPROT:O60218,max,3
+Ipomoea mauritiana,16,7,CA4 (Carbonic anhydrase 4),UNIPROT:P22748,max,2
+Ipomoea mauritiana,16,8,CXCL8 (Interleukin-8),UNIPROT:P10145,max,1
+Ipomoea mauritiana,16,9,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,1
+Ipomoea mauritiana,16,10,GPR84 (G protein-coupled receptor 84),UNIPROT:Q9NQS5,max,2
+Leptadenia reticulata,18,1,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,5
+Leptadenia reticulata,18,2,TRPV1 (Transient receptor potential cation channel subfamily V member 1),UNIPROT:Q8NER1,max,4
+Leptadenia reticulata,18,3,TRPA1 (Transient receptor potential cation channel subfamily A member 1),UNIPROT:O75762,max,3
+Leptadenia reticulata,18,4,RAPGEF4 (Rap guanine nucleotide exchange factor 4),UNIPROT:Q8WZA2,max,3
+Leptadenia reticulata,18,5,DUSP3 (Dual specificity protein phosphatase 3),UNIPROT:P51452,max,3
+Leptadenia reticulata,18,6,EGLN1 (Egl nine homolog 1),UNIPROT:Q9GZT9,max,4
+Leptadenia reticulata,18,7,PTPN6 (Tyrosine-protein phosphatase non-receptor type 6),UNIPROT:P29350,max,3
+Leptadenia reticulata,18,8,KAT2A (Histone acetyltransferase KAT2A),UNIPROT:Q92830,max,3
+Leptadenia reticulata,18,9,USP7 (Ubiquitin C-terminal hydrolase 7),UNIPROT:Q93009,max,0
+Leptadenia reticulata,18,10,PTPN11 (Tyrosine-protein phosphatase non-receptor type 11),UNIPROT:Q06124,max,1
+Mesua ferrea,119,1,GABRB3 (Gamma-aminobutyric acid receptor subunit beta-3),UNIPROT:P28472,max,5
+Mesua ferrea,119,2,GABRG1 (Gamma-aminobutyric acid receptor subunit gamma-1),UNIPROT:Q8N1C3,max,5
+Mesua ferrea,119,3,GABRB1 (Gamma-aminobutyric acid receptor subunit beta-1),UNIPROT:P18505,max,5
+Mesua ferrea,119,4,GABRA3 (Gamma-aminobutyric acid receptor subunit alpha-3),UNIPROT:P34903,max,5
+Mesua ferrea,119,5,GABRA5 (Gamma-aminobutyric acid receptor subunit alpha-5),UNIPROT:P31644,max,5
+Mesua ferrea,119,6,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,4
+Mesua ferrea,119,7,GABRG3 (Gamma-aminobutyric acid receptor subunit gamma-3),UNIPROT:Q99928,max,4
+Mesua ferrea,119,8,GABRA6 (Gamma-aminobutyric acid receptor subunit alpha-6),UNIPROT:Q16445,max,4
+Mesua ferrea,119,9,GABRA4 (Gamma-aminobutyric acid receptor subunit alpha-4),UNIPROT:P48169,max,3
+Mesua ferrea,119,10,GABRD (Gamma-aminobutyric acid receptor subunit delta),UNIPROT:O14764,max,3
+Moringa oleifera,153,1,UGT2B17 (UDP-glucuronosyltransferase 2B17),UNIPROT:O75795,max,5
+Moringa oleifera,153,2,UGT2B4 (UDP-glucuronosyltransferase 2B4),UNIPROT:P06133,max,4
+Moringa oleifera,153,3,UGT2B10 (UDP-glucuronosyltransferase 2B10),UNIPROT:P36537,max,4
+Moringa oleifera,153,4,GABRR2 (Gamma-aminobutyric acid receptor subunit rho-2),UNIPROT:P28476,max,3
+Moringa oleifera,153,5,GABRR1 (Gamma-aminobutyric acid receptor subunit rho-1),UNIPROT:P24046,max,3
+Moringa oleifera,153,6,NFKBIA (NF-kappa-B inhibitor alpha),UNIPROT:P25963,max,2
+Moringa oleifera,153,7,"ALDH2 (Aldehyde dehydrogenase, mitochondrial)",UNIPROT:P05091,max,3
+Moringa oleifera,153,8,GABRR3 (Gamma-aminobutyric acid receptor subunit rho-3),UNIPROT:A8MPY1,max,3
+Moringa oleifera,153,9,"IDO1 (Indoleamine 2,3-dioxygenase 1)",UNIPROT:P14902,max,1
+Moringa oleifera,153,10,PTPRE (Receptor-type tyrosine-protein phosphatase epsilon),UNIPROT:P23469,max,2
+Myristica fragrans,222,1,GABRB3 (Gamma-aminobutyric acid receptor subunit beta-3),UNIPROT:P28472,max,5
+Myristica fragrans,222,2,GABRG1 (Gamma-aminobutyric acid receptor subunit gamma-1),UNIPROT:Q8N1C3,max,5
+Myristica fragrans,222,3,GABRB1 (Gamma-aminobutyric acid receptor subunit beta-1),UNIPROT:P18505,max,5
+Myristica fragrans,222,4,GABRA3 (Gamma-aminobutyric acid receptor subunit alpha-3),UNIPROT:P34903,max,5
+Myristica fragrans,222,5,GABRA5 (Gamma-aminobutyric acid receptor subunit alpha-5),UNIPROT:P31644,max,5
+Myristica fragrans,222,6,GABRG3 (Gamma-aminobutyric acid receptor subunit gamma-3),UNIPROT:Q99928,max,4
+Myristica fragrans,222,7,CA13 (Carbonic anhydrase 13),UNIPROT:Q8N1Q1,max,4
+Myristica fragrans,222,8,GABRA6 (Gamma-aminobutyric acid receptor subunit alpha-6),UNIPROT:Q16445,max,4
+Myristica fragrans,222,9,GABRA4 (Gamma-aminobutyric acid receptor subunit alpha-4),UNIPROT:P48169,max,3
+Myristica fragrans,222,10,GABRD (Gamma-aminobutyric acid receptor subunit delta),UNIPROT:O14764,max,2
+Ocimum tenuiflorum,257,1,UGT2B4 (UDP-glucuronosyltransferase 2B4),UNIPROT:P06133,max,4
+Ocimum tenuiflorum,257,2,UGT2B10 (UDP-glucuronosyltransferase 2B10),UNIPROT:P36537,max,4
+Ocimum tenuiflorum,257,3,AKT2 (RAC-beta serine/threonine-protein kinase),UNIPROT:P31751,max,2
+Ocimum tenuiflorum,257,4,TARDBP (TAR DNA-binding protein 43),UNIPROT:Q13148,max,2
+Ocimum tenuiflorum,257,5,GABRR3 (Gamma-aminobutyric acid receptor subunit rho-3),UNIPROT:A8MPY1,max,0
+Ocimum tenuiflorum,257,6,GABRR2 (Gamma-aminobutyric acid receptor subunit rho-2),UNIPROT:P28476,max,2
+Ocimum tenuiflorum,257,7,PRKCI (Protein kinase C iota type),UNIPROT:P41743,max,1
+Ocimum tenuiflorum,257,8,PRKCH (Protein kinase C eta type),UNIPROT:P24723,max,0
+Ocimum tenuiflorum,257,9,GPR84 (G protein-coupled receptor 84),UNIPROT:Q9NQS5,max,2
+Ocimum tenuiflorum,257,10,PRKCG (Protein kinase C gamma type),UNIPROT:P05129,max,1
+Operculina turpethum,23,1,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,5
+Operculina turpethum,23,2,PPARD (Peroxisome proliferator-activated receptor delta),UNIPROT:Q03181,max,5
+Operculina turpethum,23,3,UGT1A6 (UDP-glucuronosyltransferase 1A6),UNIPROT:P19224,max,3
+Operculina turpethum,23,4,JUN (Transcription factor Jun),UNIPROT:P05412,max,3
+Operculina turpethum,23,5,HSPB1 (Heat shock protein beta-1),UNIPROT:P04792,max,3
+Operculina turpethum,23,6,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,2
+Operculina turpethum,23,7,PPARG (Peroxisome proliferator-activated receptor gamma),UNIPROT:P37231,max,2
+Operculina turpethum,23,8,PTPN11 (Tyrosine-protein phosphatase non-receptor type 11),UNIPROT:Q06124,max,2
+Operculina turpethum,23,9,EGLN1 (Egl nine homolog 1),UNIPROT:Q9GZT9,max,2
+Operculina turpethum,23,10,PTPN6 (Tyrosine-protein phosphatase non-receptor type 6),UNIPROT:P29350,max,2
+Oroxylum indicum,33,1,UGT2A1 (UDP-glucuronosyltransferase 2A1),UNIPROT:P0DTE4,max,5
+Oroxylum indicum,33,2,UGT2B17 (UDP-glucuronosyltransferase 2B17),UNIPROT:O75795,max,2
+Oroxylum indicum,33,3,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,2
+Oroxylum indicum,33,4,MAPK3 (Mitogen-activated protein kinase 3),UNIPROT:P27361,max,3
+Oroxylum indicum,33,5,BCHE (Cholinesterase),UNIPROT:P06276,max,2
+Oroxylum indicum,33,6,CHRM3 (Muscarinic acetylcholine receptor M3),UNIPROT:P20309,max,1
+Oroxylum indicum,33,7,HTR2C (5-hydroxytryptamine receptor 2C),UNIPROT:P28335,max,2
+Oroxylum indicum,33,8,TPMT (Thiopurine S-methyltransferase),UNIPROT:P51580,max,1
+Oroxylum indicum,33,9,OPRK1 (Kappa-type opioid receptor),UNIPROT:P41145,max,1
+Oroxylum indicum,33,10,UGT2B4 (UDP-glucuronosyltransferase 2B4),UNIPROT:P06133,max,2
+Pedalium murex,29,1,CA13 (Carbonic anhydrase 13),UNIPROT:Q8N1Q1,max,5
+Pedalium murex,29,2,TRPA1 (Transient receptor potential cation channel subfamily A member 1),UNIPROT:O75762,max,4
+Pedalium murex,29,3,VDR (Vitamin D3 receptor),UNIPROT:P11473,max,5
+Pedalium murex,29,4,PTPN11 (Tyrosine-protein phosphatase non-receptor type 11),UNIPROT:Q06124,max,4
+Pedalium murex,29,5,UGT2B17 (UDP-glucuronosyltransferase 2B17),UNIPROT:O75795,max,4
+Pedalium murex,29,6,CXCL8 (Interleukin-8),UNIPROT:P10145,max,3
+Pedalium murex,29,7,UGT2B7 (UDP-glucuronosyltransferase 2B7),UNIPROT:P16662,max,3
+Pedalium murex,29,8,GPR84 (G protein-coupled receptor 84),UNIPROT:Q9NQS5,max,3
+Pedalium murex,29,9,UGT2B10 (UDP-glucuronosyltransferase 2B10),UNIPROT:P36537,max,1
+Pedalium murex,29,10,UGT2B4 (UDP-glucuronosyltransferase 2B4),UNIPROT:P06133,max,3
+Phyllanthus amarus,111,1,GABRB3 (Gamma-aminobutyric acid receptor subunit beta-3),UNIPROT:P28472,max,5
+Phyllanthus amarus,111,2,GABRG1 (Gamma-aminobutyric acid receptor subunit gamma-1),UNIPROT:Q8N1C3,max,5
+Phyllanthus amarus,111,3,PTPRE (Receptor-type tyrosine-protein phosphatase epsilon),UNIPROT:P23469,max,4
+Phyllanthus amarus,111,4,GABRB1 (Gamma-aminobutyric acid receptor subunit beta-1),UNIPROT:P18505,max,5
+Phyllanthus amarus,111,5,GABRA3 (Gamma-aminobutyric acid receptor subunit alpha-3),UNIPROT:P34903,max,5
+Phyllanthus amarus,111,6,GABRA5 (Gamma-aminobutyric acid receptor subunit alpha-5),UNIPROT:P31644,max,5
+Phyllanthus amarus,111,7,PTPRA (Receptor-type tyrosine-protein phosphatase alpha),UNIPROT:P18433,max,4
+Phyllanthus amarus,111,8,GABRG3 (Gamma-aminobutyric acid receptor subunit gamma-3),UNIPROT:Q99928,max,4
+Phyllanthus amarus,111,9,GABRA6 (Gamma-aminobutyric acid receptor subunit alpha-6),UNIPROT:Q16445,max,3
+Phyllanthus amarus,111,10,GABRA4 (Gamma-aminobutyric acid receptor subunit alpha-4),UNIPROT:P48169,max,3
+Phyllanthus emblica,51,1,AKT2 (RAC-beta serine/threonine-protein kinase),UNIPROT:P31751,max,4
+Phyllanthus emblica,51,2,GLA (Alpha-galactosidase A),UNIPROT:P06280,max,3
+Phyllanthus emblica,51,3,F10 (Coagulation factor X),UNIPROT:P00742,max,4
+Phyllanthus emblica,51,4,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,1
+Phyllanthus emblica,51,5,SENP1 (Sentrin-specific protease 1),UNIPROT:Q9P0U3,max,3
+Phyllanthus emblica,51,6,"ALPL (Alkaline phosphatase, tissue-nonspecific isozyme)",UNIPROT:P05186,max,1
+Phyllanthus emblica,51,7,CDC25A (M-phase inducer phosphatase 1),UNIPROT:P30304,max,2
+Phyllanthus emblica,51,8,CTSB (Cathepsin B),UNIPROT:P07858,max,2
+Phyllanthus emblica,51,9,"ALPG (Alkaline phosphatase, germ cell type)",UNIPROT:P10696,max,1
+Phyllanthus emblica,51,10,GABRB3 (Gamma-aminobutyric acid receptor subunit beta-3),UNIPROT:P28472,max,1
+Phyllanthus urinaria,17,1,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,5
+Phyllanthus urinaria,17,2,PTPN6 (Tyrosine-protein phosphatase non-receptor type 6),UNIPROT:P29350,max,5
+Phyllanthus urinaria,17,3,PTPN11 (Tyrosine-protein phosphatase non-receptor type 11),UNIPROT:Q06124,max,4
+Phyllanthus urinaria,17,4,TRPA1 (Transient receptor potential cation channel subfamily A member 1),UNIPROT:O75762,max,3
+Phyllanthus urinaria,17,5,USP7 (Ubiquitin C-terminal hydrolase 7),UNIPROT:Q93009,max,2
+Phyllanthus urinaria,17,6,PTPRF (Receptor-type tyrosine-protein phosphatase F),UNIPROT:P10586,max,2
+Phyllanthus urinaria,17,7,P4HTM (Transmembrane prolyl 4-hydroxylase),UNIPROT:Q9NXG6,max,2
+Phyllanthus urinaria,17,8,PTPRE (Receptor-type tyrosine-protein phosphatase epsilon),UNIPROT:P23469,max,1
+Phyllanthus urinaria,17,9,PTPRA (Receptor-type tyrosine-protein phosphatase alpha),UNIPROT:P18433,max,1
+Phyllanthus urinaria,17,10,GLA (Alpha-galactosidase A),UNIPROT:P06280,max,1
+Piper retrofractum,15,1,HDAC11 (Histone deacetylase 11),UNIPROT:Q96DB2,max,4
+Piper retrofractum,15,2,HDAC2 (Histone deacetylase 2),UNIPROT:Q92769,max,5
+Piper retrofractum,15,3,HDAC8 (Histone deacetylase 8),UNIPROT:Q9BY41,max,4
+Piper retrofractum,15,4,PTGS2 (Prostaglandin G/H synthase 2),UNIPROT:P35354,max,3
+Piper retrofractum,15,5,HDAC9 (Histone deacetylase 9),UNIPROT:Q9UKV0,max,4
+Piper retrofractum,15,6,USP1 (Ubiquitin carboxyl-terminal hydrolase 1),UNIPROT:O94782,max,3
+Piper retrofractum,15,7,APEX1 (DNA repair nuclease/redox regulator APEX1),UNIPROT:P27695,max,3
+Piper retrofractum,15,8,HDAC7 (Histone deacetylase 7),UNIPROT:Q8WUI4,max,5
+Piper retrofractum,15,9,PTPN1 (Tyrosine-protein phosphatase non-receptor type 1),UNIPROT:P18031,max,3
+Piper retrofractum,15,10,HDAC4 (Histone deacetylase 4),UNIPROT:P56524,max,3
+Piper sarmentosum,17,1,NFE2L2 (Nuclear factor erythroid 2-related factor 2),UNIPROT:Q16236,max,5
+Piper sarmentosum,17,2,TDP1 (Tyrosyl-DNA phosphodiesterase 1),UNIPROT:Q9NUW8,max,5
+Piper sarmentosum,17,3,AR (Androgen receptor),UNIPROT:P10275,max,3
+Piper sarmentosum,17,4,CYP1A2 (Cytochrome P450 1A2),UNIPROT:P05177,max,4
+Piper sarmentosum,17,5,PTGS2 (Prostaglandin G/H synthase 2),UNIPROT:P35354,max,3
+Piper sarmentosum,17,6,PTGS1 (Prostaglandin G/H synthase 1),UNIPROT:P23219,max,2
+Piper sarmentosum,17,7,CYP2C9 (Cytochrome P450 2C9),UNIPROT:P11712,max,3
+Piper sarmentosum,17,8,PTPN1 (Tyrosine-protein phosphatase non-receptor type 1),UNIPROT:P18031,max,1
+Piper sarmentosum,17,9,CYP2C19 (Cytochrome P450 2C19),UNIPROT:P33261,max,4
+Piper sarmentosum,17,10,CBX1 (Chromobox protein homolog 1),UNIPROT:P83916,max,1
+Plumbago zeylanica,29,1,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,5
+Plumbago zeylanica,29,2,RAPGEF4 (Rap guanine nucleotide exchange factor 4),UNIPROT:Q8WZA2,max,2
+Plumbago zeylanica,29,3,EGLN1 (Egl nine homolog 1),UNIPROT:Q9GZT9,max,3
+Plumbago zeylanica,29,4,KDM4A (Lysine-specific demethylase 4A),UNIPROT:O75164,max,3
+Plumbago zeylanica,29,5,PTPN11 (Tyrosine-protein phosphatase non-receptor type 11),UNIPROT:Q06124,max,2
+Plumbago zeylanica,29,6,DUSP3 (Dual specificity protein phosphatase 3),UNIPROT:P51452,max,0
+Plumbago zeylanica,29,7,PTPN6 (Tyrosine-protein phosphatase non-receptor type 6),UNIPROT:P29350,max,2
+Plumbago zeylanica,29,8,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,3
+Plumbago zeylanica,29,9,FYN (Tyrosine-protein kinase Fyn),UNIPROT:P06241,max,0
+Plumbago zeylanica,29,10,USP7 (Ubiquitin C-terminal hydrolase 7),UNIPROT:Q93009,max,0
+Pseudarthria viscida,1,1,PTGS2 (Prostaglandin G/H synthase 2),UNIPROT:P35354,max,4
+Pseudarthria viscida,1,2,PTGS1 (Prostaglandin G/H synthase 1),UNIPROT:P23219,max,3
+Pseudarthria viscida,1,3,HDAC6 (Protein deacetylase HDAC6),UNIPROT:Q9UBN7,max,4
+Pseudarthria viscida,1,4,TDP1 (Tyrosyl-DNA phosphodiesterase 1),UNIPROT:Q9NUW8,max,3
+Pseudarthria viscida,1,5,ESR1 (Estrogen receptor),UNIPROT:P03372,max,2
+Pseudarthria viscida,1,6,NFE2L2 (Nuclear factor erythroid 2-related factor 2),UNIPROT:Q16236,max,2
+Pseudarthria viscida,1,7,SLCO1B1 (Solute carrier organic anion transporter family member 1B1),UNIPROT:Q9Y6L6,max,3
+Pseudarthria viscida,1,8,APEX1 (DNA repair nuclease/redox regulator APEX1),UNIPROT:P27695,max,2
+Pseudarthria viscida,1,9,TYR (Tyrosinase),UNIPROT:P14679,max,2
+Pseudarthria viscida,1,10,APP (Amyloid-beta precursor protein),UNIPROT:P05067,max,1
+Symplocos racemosa,13,1,JUN (Transcription factor Jun),UNIPROT:P05412,max,5
+Symplocos racemosa,13,2,ESR1 (Estrogen receptor),UNIPROT:P03372,max,3
+Symplocos racemosa,13,3,PPARG (Peroxisome proliferator-activated receptor gamma),UNIPROT:P37231,max,5
+Symplocos racemosa,13,4,PTPN7 (Tyrosine-protein phosphatase non-receptor type 7),UNIPROT:P35236,max,1
+Symplocos racemosa,13,5,NR3C1 (Glucocorticoid receptor),UNIPROT:P04150,max,3
+Symplocos racemosa,13,6,HSPB1 (Heat shock protein beta-1),UNIPROT:P04792,max,3
+Symplocos racemosa,13,7,RORC (Nuclear receptor ROR-gamma),UNIPROT:P51449,max,4
+Symplocos racemosa,13,8,CYP1A1 (Cytochrome P450 1A1),UNIPROT:P04798,max,2
+Symplocos racemosa,13,9,ESR2 (Estrogen receptor beta),UNIPROT:Q92731,max,2
+Symplocos racemosa,13,10,MMP9 (Matrix metalloproteinase-9),UNIPROT:P14780,max,1
+Syzygium aromaticum,180,1,GABRG1 (Gamma-aminobutyric acid receptor subunit gamma-1),UNIPROT:Q8N1C3,max,5
+Syzygium aromaticum,180,2,GABRB1 (Gamma-aminobutyric acid receptor subunit beta-1),UNIPROT:P18505,max,4
+Syzygium aromaticum,180,3,GABRA3 (Gamma-aminobutyric acid receptor subunit alpha-3),UNIPROT:P34903,max,5
+Syzygium aromaticum,180,4,GABRA5 (Gamma-aminobutyric acid receptor subunit alpha-5),UNIPROT:P31644,max,5
+Syzygium aromaticum,180,5,GABRG3 (Gamma-aminobutyric acid receptor subunit gamma-3),UNIPROT:Q99928,max,4
+Syzygium aromaticum,180,6,GABRA6 (Gamma-aminobutyric acid receptor subunit alpha-6),UNIPROT:Q16445,max,4
+Syzygium aromaticum,180,7,GABRA4 (Gamma-aminobutyric acid receptor subunit alpha-4),UNIPROT:P48169,max,2
+Syzygium aromaticum,180,8,UGT2B7 (UDP-glucuronosyltransferase 2B7),UNIPROT:P16662,max,1
+Syzygium aromaticum,180,9,GABRD (Gamma-aminobutyric acid receptor subunit delta),UNIPROT:O14764,max,2
+Syzygium aromaticum,180,10,GABRE (Gamma-aminobutyric acid receptor subunit epsilon),UNIPROT:P78334,max,1
+Syzygium cumini,151,1,GABRB3 (Gamma-aminobutyric acid receptor subunit beta-3),UNIPROT:P28472,max,5
+Syzygium cumini,151,2,GABRG1 (Gamma-aminobutyric acid receptor subunit gamma-1),UNIPROT:Q8N1C3,max,5
+Syzygium cumini,151,3,GABRB1 (Gamma-aminobutyric acid receptor subunit beta-1),UNIPROT:P18505,max,5
+Syzygium cumini,151,4,GABRA3 (Gamma-aminobutyric acid receptor subunit alpha-3),UNIPROT:P34903,max,5
+Syzygium cumini,151,5,GABRA5 (Gamma-aminobutyric acid receptor subunit alpha-5),UNIPROT:P31644,max,5
+Syzygium cumini,151,6,GABRG3 (Gamma-aminobutyric acid receptor subunit gamma-3),UNIPROT:Q99928,max,4
+Syzygium cumini,151,7,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,3
+Syzygium cumini,151,8,GABRA6 (Gamma-aminobutyric acid receptor subunit alpha-6),UNIPROT:Q16445,max,4
+Syzygium cumini,151,9,GABRA4 (Gamma-aminobutyric acid receptor subunit alpha-4),UNIPROT:P48169,max,2
+Syzygium cumini,151,10,GABRD (Gamma-aminobutyric acid receptor subunit delta),UNIPROT:O14764,max,2
+Tecomella undulata,29,1,CA13 (Carbonic anhydrase 13),UNIPROT:Q8N1Q1,max,5
+Tecomella undulata,29,2,TRPA1 (Transient receptor potential cation channel subfamily A member 1),UNIPROT:O75762,max,4
+Tecomella undulata,29,3,RORC (Nuclear receptor ROR-gamma),UNIPROT:P51449,max,4
+Tecomella undulata,29,4,PPARA (Peroxisome proliferator-activated receptor alpha),UNIPROT:Q07869,max,5
+Tecomella undulata,29,5,PTPN7 (Tyrosine-protein phosphatase non-receptor type 7),UNIPROT:P35236,max,1
+Tecomella undulata,29,6,RXRA (Retinoic acid receptor RXR-alpha),UNIPROT:P19793,max,1
+Tecomella undulata,29,7,BAZ2B (Bromodomain adjacent to zinc finger domain protein 2B),UNIPROT:Q9UIF8,max,1
+Tecomella undulata,29,8,CXCL8 (Interleukin-8),UNIPROT:P10145,max,1
+Tecomella undulata,29,9,SNUPN (Snurportin-1),UNIPROT:O95149,max,1
+Tecomella undulata,29,10,KPNB1 (Importin subunit beta-1),UNIPROT:Q14974,max,1
+Terminalia arjuna,41,1,TSHR (Thyrotropin receptor),UNIPROT:P16473,max,4
+Terminalia arjuna,41,2,PTPN7 (Tyrosine-protein phosphatase non-receptor type 7),UNIPROT:P35236,max,3
+Terminalia arjuna,41,3,RXRA (Retinoic acid receptor RXR-alpha),UNIPROT:P19793,max,2
+Terminalia arjuna,41,4,GPR84 (G protein-coupled receptor 84),UNIPROT:Q9NQS5,max,2
+Terminalia arjuna,41,5,TRPA1 (Transient receptor potential cation channel subfamily A member 1),UNIPROT:O75762,max,2
+Terminalia arjuna,41,6,CES2 (Cocaine esterase),UNIPROT:O00748,max,2
+Terminalia arjuna,41,7,HSD11B1 (11-beta-hydroxysteroid dehydrogenase 1),UNIPROT:P28845,max,3
+Terminalia arjuna,41,8,CTRC (Chymotrypsin-C),UNIPROT:Q99895,max,1
+Terminalia arjuna,41,9,SENP1 (Sentrin-specific protease 1),UNIPROT:Q9P0U3,max,2
+Terminalia arjuna,41,10,MAOB (Amine oxidase [flavin-containing] B),UNIPROT:P27338,max,1
+Terminalia bellirica,39,1,ALOX5 (Polyunsaturated fatty acid 5-lipoxygenase),UNIPROT:P09917,max,4
+Terminalia bellirica,39,2,AKR1B10 (Aldo-keto reductase family 1 member B10),UNIPROT:O60218,max,4
+Terminalia bellirica,39,3,USP7 (Ubiquitin C-terminal hydrolase 7),UNIPROT:Q93009,max,4
+Terminalia bellirica,39,4,EGLN1 (Egl nine homolog 1),UNIPROT:Q9GZT9,max,2
+Terminalia bellirica,39,5,TRPA1 (Transient receptor potential cation channel subfamily A member 1),UNIPROT:O75762,max,3
+Terminalia bellirica,39,6,GPBAR1 (G protein-coupled bile acid receptor 1),UNIPROT:Q8TDU6,max,3
+Terminalia bellirica,39,7,PTPRA (Receptor-type tyrosine-protein phosphatase alpha),UNIPROT:P18433,max,3
+Terminalia bellirica,39,8,TRPV1 (Transient receptor potential cation channel subfamily V member 1),UNIPROT:Q8NER1,max,1
+Terminalia bellirica,39,9,EGLN3 (Prolyl hydroxylase EGLN3),UNIPROT:Q9H6Z9,max,0
+Terminalia bellirica,39,10,EGLN2 (Prolyl hydroxylase EGLN2),UNIPROT:Q96KS0,max,1
+Terminalia chebula,50,1,UGT1A3 (UDP-glucuronosyltransferase 1A3),UNIPROT:P35503,max,4
+Terminalia chebula,50,2,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,4
+Terminalia chebula,50,3,SLCO2B1 (Solute carrier organic anion transporter family member 2B1),UNIPROT:O94956,max,3
+Terminalia chebula,50,4,PRSS1 (Serine protease 1),UNIPROT:P07477,max,3
+Terminalia chebula,50,5,PRSS2 (Trypsin-2),UNIPROT:P07478,max,2
+Terminalia chebula,50,6,TRPV1 (Transient receptor potential cation channel subfamily V member 1),UNIPROT:Q8NER1,max,1
+Terminalia chebula,50,7,AKT2 (RAC-beta serine/threonine-protein kinase),UNIPROT:P31751,max,2
+Terminalia chebula,50,8,SYNJ2 (Polyphosphatidylinositol phosphatase SYNJ2),UNIPROT:O15056,max,2
+Terminalia chebula,50,9,SORD (Sorbitol dehydrogenase),UNIPROT:Q00796,max,0
+Terminalia chebula,50,10,ABCG2 (Broad substrate specificity ATP-binding cassette transporter ABCG2),UNIPROT:Q9UNQ0,max,2
+Terminalia paniculata,3,1,HSD17B10 (3-hydroxyacyl-CoA dehydrogenase type-2),UNIPROT:Q99714,max,5
+Terminalia paniculata,3,2,PTPN1 (Tyrosine-protein phosphatase non-receptor type 1),UNIPROT:P18031,max,5
+Terminalia paniculata,3,3,POLK (DNA polymerase kappa),UNIPROT:Q9UBT6,max,3
+Terminalia paniculata,3,4,PTGS2 (Prostaglandin G/H synthase 2),UNIPROT:P35354,max,4
+Terminalia paniculata,3,5,USP1 (Ubiquitin carboxyl-terminal hydrolase 1),UNIPROT:O94782,max,3
+Terminalia paniculata,3,6,EHMT2 (Histone-lysine N-methyltransferase EHMT2),UNIPROT:Q96KQ7,max,2
+Terminalia paniculata,3,7,NFE2L2 (Nuclear factor erythroid 2-related factor 2),UNIPROT:Q16236,max,3
+Terminalia paniculata,3,8,TP53 (Cellular tumor antigen p53),UNIPROT:P04637,max,2
+Terminalia paniculata,3,9,ALOX5 (Polyunsaturated fatty acid 5-lipoxygenase),UNIPROT:P09917,max,0
+Terminalia paniculata,3,10,ATAD5 (ATPase family AAA domain-containing protein 5),UNIPROT:Q96QE3,max,3
+Tinospora sinensis,49,1,PTPRE (Receptor-type tyrosine-protein phosphatase epsilon),UNIPROT:P23469,max,4
+Tinospora sinensis,49,2,PTPRA (Receptor-type tyrosine-protein phosphatase alpha),UNIPROT:P18433,max,4
+Tinospora sinensis,49,3,UGT1A3 (UDP-glucuronosyltransferase 1A3),UNIPROT:P35503,max,4
+Tinospora sinensis,49,4,DUSP3 (Dual specificity protein phosphatase 3),UNIPROT:P51452,max,3
+Tinospora sinensis,49,5,POLK (DNA polymerase kappa),UNIPROT:Q9UBT6,max,4
+Tinospora sinensis,49,6,MAOA (Amine oxidase [flavin-containing] A),UNIPROT:P21397,max,2
+Tinospora sinensis,49,7,UGT1A9 (UDP-glucuronosyltransferase 1A9),UNIPROT:O60656,max,4
+Tinospora sinensis,49,8,UGT1A6 (UDP-glucuronosyltransferase 1A6),UNIPROT:P19224,max,3
+Tinospora sinensis,49,9,PTPN7 (Tyrosine-protein phosphatase non-receptor type 7),UNIPROT:P35236,max,3
+Tinospora sinensis,49,10,AKR1B10 (Aldo-keto reductase family 1 member B10),UNIPROT:O60218,max,2
+Trianthema portulacastrum,40,1,PPARA (Peroxisome proliferator-activated receptor alpha),UNIPROT:Q07869,max,5
+Trianthema portulacastrum,40,2,RORC (Nuclear receptor ROR-gamma),UNIPROT:P51449,max,5
+Trianthema portulacastrum,40,3,IDH1 (Isocitrate dehydrogenase [NADP] cytoplasmic),UNIPROT:O75874,max,4
+Trianthema portulacastrum,40,4,RXRA (Retinoic acid receptor RXR-alpha),UNIPROT:P19793,max,2
+Trianthema portulacastrum,40,5,TARDBP (TAR DNA-binding protein 43),UNIPROT:Q13148,max,3
+Trianthema portulacastrum,40,6,UGT2B7 (UDP-glucuronosyltransferase 2B7),UNIPROT:P16662,max,2
+Trianthema portulacastrum,40,7,FAAH (Fatty-acid amide hydrolase 1),UNIPROT:O00519,max,2
+Trianthema portulacastrum,40,8,PRKAB2 (5'-AMP-activated protein kinase subunit beta-2),UNIPROT:O43741,max,3
+Trianthema portulacastrum,40,9,"IDO1 (Indoleamine 2,3-dioxygenase 1)",UNIPROT:P14902,max,0
+Trianthema portulacastrum,40,10,BRCA1 (Breast cancer type 1 susceptibility protein),UNIPROT:P38398,max,1
+Tribulus terrestris,67,1,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,5
+Tribulus terrestris,67,2,UGT2A1 (UDP-glucuronosyltransferase 2A1),UNIPROT:P0DTE4,max,5
+Tribulus terrestris,67,3,PTPN2 (Tyrosine-protein phosphatase non-receptor type 2),UNIPROT:P17706,max,5
+Tribulus terrestris,67,4,UGT2B17 (UDP-glucuronosyltransferase 2B17),UNIPROT:O75795,max,5
+Tribulus terrestris,67,5,UGT2B7 (UDP-glucuronosyltransferase 2B7),UNIPROT:P16662,max,4
+Tribulus terrestris,67,6,PTPN6 (Tyrosine-protein phosphatase non-receptor type 6),UNIPROT:P29350,max,3
+Tribulus terrestris,67,7,UGT2B4 (UDP-glucuronosyltransferase 2B4),UNIPROT:P06133,max,2
+Tribulus terrestris,67,8,CA13 (Carbonic anhydrase 13),UNIPROT:Q8N1Q1,max,3
+Tribulus terrestris,67,9,USP7 (Ubiquitin C-terminal hydrolase 7),UNIPROT:Q93009,max,1
+Tribulus terrestris,67,10,UGT2B10 (UDP-glucuronosyltransferase 2B10),UNIPROT:P36537,max,2
+Trigonella foenum-graecum,123,1,PTPRE (Receptor-type tyrosine-protein phosphatase epsilon),UNIPROT:P23469,max,5
+Trigonella foenum-graecum,123,2,PTPRA (Receptor-type tyrosine-protein phosphatase alpha),UNIPROT:P18433,max,5
+Trigonella foenum-graecum,123,3,TRPV1 (Transient receptor potential cation channel subfamily V member 1),UNIPROT:Q8NER1,max,4
+Trigonella foenum-graecum,123,4,UGT2B4 (UDP-glucuronosyltransferase 2B4),UNIPROT:P06133,max,4
+Trigonella foenum-graecum,123,5,USP7 (Ubiquitin C-terminal hydrolase 7),UNIPROT:Q93009,max,4
+Trigonella foenum-graecum,123,6,UGT2B10 (UDP-glucuronosyltransferase 2B10),UNIPROT:P36537,max,3
+Trigonella foenum-graecum,123,7,GPR84 (G protein-coupled receptor 84),UNIPROT:Q9NQS5,max,3
+Trigonella foenum-graecum,123,8,NFKBIA (NF-kappa-B inhibitor alpha),UNIPROT:P25963,max,3
+Trigonella foenum-graecum,123,9,"IDO1 (Indoleamine 2,3-dioxygenase 1)",UNIPROT:P14902,max,1
+Trigonella foenum-graecum,123,10,TPMT (Thiopurine S-methyltransferase),UNIPROT:P51580,max,1
+Vitex negundo,138,1,CA13 (Carbonic anhydrase 13),UNIPROT:Q8N1Q1,max,5
+Vitex negundo,138,2,UGT2B17 (UDP-glucuronosyltransferase 2B17),UNIPROT:O75795,max,4
+Vitex negundo,138,3,UGT2B4 (UDP-glucuronosyltransferase 2B4),UNIPROT:P06133,max,3
+Vitex negundo,138,4,UGT2B10 (UDP-glucuronosyltransferase 2B10),UNIPROT:P36537,max,3
+Vitex negundo,138,5,GABRR2 (Gamma-aminobutyric acid receptor subunit rho-2),UNIPROT:P28476,max,2
+Vitex negundo,138,6,GABRR1 (Gamma-aminobutyric acid receptor subunit rho-1),UNIPROT:P24046,max,2
+Vitex negundo,138,7,CDC25A (M-phase inducer phosphatase 1),UNIPROT:P30304,max,3
+Vitex negundo,138,8,SELP (P-selectin),UNIPROT:P16109,max,0
+Vitex negundo,138,9,GABRR3 (Gamma-aminobutyric acid receptor subunit rho-3),UNIPROT:A8MPY1,max,1
+Vitex negundo,138,10,CES2 (Cocaine esterase),UNIPROT:O00748,max,0
+Withania somnifera,79,1,UGT1A6 (UDP-glucuronosyltransferase 1A6),UNIPROT:P19224,max,3
+Withania somnifera,79,2,FGFR3 (Fibroblast growth factor receptor 3),UNIPROT:P22607,max,4
+Withania somnifera,79,3,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,1
+Withania somnifera,79,4,"HSPD1 (60 kDa heat shock protein, mitochondrial)",UNIPROT:P10809,max,3
+Withania somnifera,79,5,CA4 (Carbonic anhydrase 4),UNIPROT:P22748,max,1
+Withania somnifera,79,6,"HSPA9 (Stress-70 protein, mitochondrial)",UNIPROT:P38646,max,3
+Withania somnifera,79,7,ALOX12 (Polyunsaturated fatty acid lipoxygenase ALOX12),UNIPROT:P18054,max,0
+Withania somnifera,79,8,POLH (DNA polymerase eta),UNIPROT:Q9Y253,max,1
+Withania somnifera,79,9,BRCA1 (Breast cancer type 1 susceptibility protein),UNIPROT:P38398,max,0
+Withania somnifera,79,10,SNCA (Alpha-synuclein),UNIPROT:P37840,max,1
+Woodfordia fruticosa,65,1,PAK4 (Serine/threonine-protein kinase PAK 4),UNIPROT:O96013,max,3
+Woodfordia fruticosa,65,2,MAP2K6 (Dual specificity mitogen-activated protein kinase kinase 6),UNIPROT:P52564,max,2
+Woodfordia fruticosa,65,3,CHEK2 (Serine/threonine-protein kinase Chk2),UNIPROT:O96017,max,2
+Woodfordia fruticosa,65,4,AKT2 (RAC-beta serine/threonine-protein kinase),UNIPROT:P31751,max,2
+Woodfordia fruticosa,65,5,NEK6 (Serine/threonine-protein kinase Nek6),UNIPROT:Q9HC98,max,2
+Woodfordia fruticosa,65,6,MAPK9 (Mitogen-activated protein kinase 9),UNIPROT:P45984,max,2
+Woodfordia fruticosa,65,7,STK16 (Serine/threonine-protein kinase 16),UNIPROT:O75716,max,2
+Woodfordia fruticosa,65,8,MAPK8 (Mitogen-activated protein kinase 8),UNIPROT:P45983,max,2
+Woodfordia fruticosa,65,9,PDPK1 (3-phosphoinositide-dependent protein kinase 1),UNIPROT:O15530,max,2
+Woodfordia fruticosa,65,10,NEK2 (Serine/threonine-protein kinase Nek2),UNIPROT:P51955,max,1
+Zingiber officinale,343,1,UGT1A7 (UDP-glucuronosyltransferase 1A7),UNIPROT:Q9HAW7,max,5
+Zingiber officinale,343,2,CYP2A13 (Cytochrome P450 2A13),UNIPROT:Q16696,max,4
+Zingiber officinale,343,3,UGT2B4 (UDP-glucuronosyltransferase 2B4),UNIPROT:P06133,max,4
+Zingiber officinale,343,4,CYP2C18 (Cytochrome P450 2C18),UNIPROT:P33260,max,2
+Zingiber officinale,343,5,CYP2A7 (Cytochrome P450 2A7),UNIPROT:P20853,max,2
+Zingiber officinale,343,6,UGT2B10 (UDP-glucuronosyltransferase 2B10),UNIPROT:P36537,max,1
+Zingiber officinale,343,7,CYP2F1 (Cytochrome P450 2F1),UNIPROT:P24903,max,1
+Zingiber officinale,343,8,CYP1A1 (Cytochrome P450 1A1),UNIPROT:P04798,max,2
+Zingiber officinale,343,9,RELA (Transcription factor p65),UNIPROT:Q04206,max,1
+Zingiber officinale,343,10,ATXN2 (Ataxin-2),UNIPROT:Q99700,max,2

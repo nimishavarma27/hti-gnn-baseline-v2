@@ -1,0 +1,621 @@
+herb,rank,compound,compound_id,score,folds in top 10
+Acmella paniculata,1,Ascorbic acid,IMPPAT3_PHYID000304,0.9935,4
+Acmella paniculata,2,Quercetin,IMPPAT3_PHYID000007,0.9931,3
+Acmella paniculata,3,Oleic acid,IMPPAT3_PHYID000075,0.9924,3
+Acmella paniculata,4,D-Glucose,IMPPAT3_PHYID000002,0.9907,2
+Acmella paniculata,5,Kaempferol,IMPPAT3_PHYID000251,0.9903,4
+Acmella paniculata,6,Docosanoic acid,IMPPAT3_PHYID000196,0.9859,2
+Acmella paniculata,7,Gallic acid,IMPPAT3_PHYID000180,0.9842,0
+Acmella paniculata,8,Lupeol,IMPPAT3_PHYID000166,0.9818,1
+Acmella paniculata,9,Oleanolic acid,IMPPAT3_PHYID000397,0.9809,2
+Acmella paniculata,10,Maslinic acid,IMPPAT3_PHYID000172,0.9808,1
+Acorus calamus,1,alpha-Muurolol,IMPPAT3_PHYID000468,0.9838,4
+Acorus calamus,2,(-)-beta-Bourbonene,IMPPAT3_PHYID000628,0.9764,2
+Acorus calamus,3,cubenol,IMPPAT3_PHYID000569,0.9743,2
+Acorus calamus,4,gamma-Eudesmol,IMPPAT3_PHYID000607,0.9736,2
+Acorus calamus,5,delta-Cadinol,IMPPAT3_PHYID000695,0.9732,1
+Acorus calamus,6,Copaene,IMPPAT3_PHYID000704,0.9689,2
+Acorus calamus,7,Guaiol,IMPPAT3_PHYID000624,0.9678,2
+Acorus calamus,8,Zizanene,IMPPAT3_PHYID000685,0.9672,4
+Acorus calamus,9,2-(4-Methylphenyl)propan-2-ol,IMPPAT3_PHYID000664,0.9641,0
+Acorus calamus,10,Carvone,IMPPAT3_PHYID000164,0.9615,2
+Aegle marmelos,1,Myristic acid,IMPPAT3_PHYID000071,0.9841,2
+Aegle marmelos,2,Stigmasterol,IMPPAT3_PHYID000140,0.9835,4
+Aegle marmelos,3,(+)-alpha-Cadinene,IMPPAT3_PHYID000634,0.9829,2
+Aegle marmelos,4,Thymol,IMPPAT3_PHYID000217,0.9816,1
+Aegle marmelos,5,Guaiol,IMPPAT3_PHYID000624,0.9803,2
+Aegle marmelos,6,(-)-alpha-Cadinol,IMPPAT3_PHYID000438,0.9771,2
+Aegle marmelos,7,(+)-gamma-Cadinene,IMPPAT3_PHYID000235,0.9769,1
+Aegle marmelos,8,Allo-Aromadendrene,IMPPAT3_PHYID000524,0.9754,1
+Aegle marmelos,9,Ledol,IMPPAT3_PHYID000566,0.9752,3
+Aegle marmelos,10,Geraniol,IMPPAT3_PHYID000256,0.9737,2
+Ailanthus triphysa,1,Daucosterol,IMPPAT3_PHYID000139,0.9972,4
+Ailanthus triphysa,2,Stearic acid,IMPPAT3_PHYID000073,0.9965,4
+Ailanthus triphysa,3,Palmitic acid,IMPPAT3_PHYID000072,0.993,2
+Ailanthus triphysa,4,Lupeol,IMPPAT3_PHYID000166,0.9904,3
+Ailanthus triphysa,5,Linoleic acid,IMPPAT3_PHYID000077,0.99,2
+Ailanthus triphysa,6,Oleic acid,IMPPAT3_PHYID000075,0.9897,1
+Ailanthus triphysa,7,Stigmasterol,IMPPAT3_PHYID000140,0.989,3
+Ailanthus triphysa,8,Ascorbic acid,IMPPAT3_PHYID000304,0.9885,0
+Ailanthus triphysa,9,Linolenic acid,IMPPAT3_PHYID000076,0.9884,1
+Ailanthus triphysa,10,Chlorogenic acid,IMPPAT3_PHYID000392,0.9879,1
+Andrographis paniculata,1,Palmitic acid,IMPPAT3_PHYID000072,0.9961,3
+Andrographis paniculata,2,Quercetin,IMPPAT3_PHYID000007,0.9926,3
+Andrographis paniculata,3,Stearic acid,IMPPAT3_PHYID000073,0.9918,2
+Andrographis paniculata,4,Kaempferol,IMPPAT3_PHYID000251,0.9915,2
+Andrographis paniculata,5,Linoleic acid,IMPPAT3_PHYID000077,0.9905,1
+Andrographis paniculata,6,Oleic acid,IMPPAT3_PHYID000075,0.9892,0
+Andrographis paniculata,7,D-Glucose,IMPPAT3_PHYID000002,0.9889,2
+Andrographis paniculata,8,Ellagic acid,IMPPAT3_PHYID000327,0.9883,1
+Andrographis paniculata,9,Luteolin,IMPPAT3_PHYID000266,0.988,2
+Andrographis paniculata,10,Ascorbic acid,IMPPAT3_PHYID000304,0.985,1
+Aphanamixis polystachya,1,alpha-Pinene,IMPPAT3_PHYID000153,0.9925,3
+Aphanamixis polystachya,2,(+)-gamma-Cadinene,IMPPAT3_PHYID000235,0.9887,2
+Aphanamixis polystachya,3,Camphene,IMPPAT3_PHYID000163,0.9858,2
+Aphanamixis polystachya,4,Nerolidol,IMPPAT3_PHYID000114,0.9855,2
+Aphanamixis polystachya,5,alpha-Copaene,IMPPAT3_PHYID000022,0.9829,2
+Aphanamixis polystachya,6,gamma-Terpinene,IMPPAT3_PHYID000220,0.9818,0
+Aphanamixis polystachya,7,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",IMPPAT3_PHYID000025,0.9814,2
+Aphanamixis polystachya,8,beta-Pinene,IMPPAT3_PHYID000159,0.9814,0
+Aphanamixis polystachya,9,(+)-beta-Phellandrene,IMPPAT3_PHYID000597,0.9805,2
+Aphanamixis polystachya,10,Aromadendrene,IMPPAT3_PHYID000429,0.9804,3
+Asparagus gonoclados,1,beta-Sitosterol,IMPPAT3_PHYID000018,0.9942,3
+Asparagus gonoclados,2,Quercetin,IMPPAT3_PHYID000007,0.994,1
+Asparagus gonoclados,3,Isoquercitrin,IMPPAT3_PHYID000282,0.993,2
+Asparagus gonoclados,4,Daucosterol,IMPPAT3_PHYID000139,0.9921,3
+Asparagus gonoclados,5,Stigmasterol,IMPPAT3_PHYID000140,0.9918,4
+Asparagus gonoclados,6,Lupeol,IMPPAT3_PHYID000166,0.9896,2
+Asparagus gonoclados,7,Astragalin,IMPPAT3_PHYID000281,0.9883,1
+Asparagus gonoclados,8,Luteolin,IMPPAT3_PHYID000266,0.9866,1
+Asparagus gonoclados,9,Hyperoside,IMPPAT3_PHYID000005,0.9848,1
+Asparagus gonoclados,10,D-Galactose,IMPPAT3_PHYID000011,0.9825,0
+Asparagus racemosus,1,Daucosterol,IMPPAT3_PHYID000139,0.9977,5
+Asparagus racemosus,2,Ellagic acid,IMPPAT3_PHYID000327,0.9927,2
+Asparagus racemosus,3,Lupeol,IMPPAT3_PHYID000166,0.9921,3
+Asparagus racemosus,4,Isoquercitrin,IMPPAT3_PHYID000282,0.9897,3
+Asparagus racemosus,5,Astragalin,IMPPAT3_PHYID000281,0.989,3
+Asparagus racemosus,6,Tannic acid,IMPPAT3_PHYID000292,0.9867,2
+Asparagus racemosus,7,Palmitic acid,IMPPAT3_PHYID000072,0.9853,0
+Asparagus racemosus,8,Apigenin,IMPPAT3_PHYID000156,0.9852,1
+Asparagus racemosus,9,Gallic acid,IMPPAT3_PHYID000180,0.9846,0
+Asparagus racemosus,10,Luteolin,IMPPAT3_PHYID000266,0.9846,1
+Azadirachta indica,1,Oleanolic acid,IMPPAT3_PHYID000397,0.9573,1
+Azadirachta indica,2,Caffeic acid,IMPPAT3_PHYID000171,0.9472,0
+Azadirachta indica,3,Luteolin,IMPPAT3_PHYID000266,0.9425,1
+Azadirachta indica,4,Lauric acid,IMPPAT3_PHYID000263,0.9409,0
+Azadirachta indica,5,Maslinic acid,IMPPAT3_PHYID000172,0.9369,1
+Azadirachta indica,6,Ascorbic acid,IMPPAT3_PHYID000304,0.9356,0
+Azadirachta indica,7,Clionasterol,IMPPAT3_PHYID000381,0.92,3
+Azadirachta indica,8,Betulinic acid,IMPPAT3_PHYID000340,0.9175,1
+Azadirachta indica,9,Ellagic acid,IMPPAT3_PHYID000327,0.9165,0
+Azadirachta indica,10,Apigenin,IMPPAT3_PHYID000156,0.9134,0
+Bacopa monnieri,1,Lupeol,IMPPAT3_PHYID000166,0.9968,4
+Bacopa monnieri,2,Palmitic acid,IMPPAT3_PHYID000072,0.9937,3
+Bacopa monnieri,3,Stearic acid,IMPPAT3_PHYID000073,0.9935,3
+Bacopa monnieri,4,Quercetin,IMPPAT3_PHYID000007,0.9919,4
+Bacopa monnieri,5,Oleic acid,IMPPAT3_PHYID000075,0.9903,1
+Bacopa monnieri,6,Kaempferol,IMPPAT3_PHYID000251,0.9894,3
+Bacopa monnieri,7,Rutin,IMPPAT3_PHYID000270,0.9865,2
+Bacopa monnieri,8,Linoleic acid,IMPPAT3_PHYID000077,0.9858,1
+Bacopa monnieri,9,Daucosterol,IMPPAT3_PHYID000139,0.9833,2
+Bacopa monnieri,10,Linolenic acid,IMPPAT3_PHYID000076,0.9819,1
+Baliospermum solanifolium,1,beta-Sitosterol,IMPPAT3_PHYID000018,0.9982,4
+Baliospermum solanifolium,2,Stigmasterol,IMPPAT3_PHYID000140,0.9854,2
+Baliospermum solanifolium,3,beta-Sitosterol-beta-D-glucoside,IMPPAT3_PHYID000097,0.9817,1
+Baliospermum solanifolium,4,Kaempferol,IMPPAT3_PHYID000251,0.9814,1
+Baliospermum solanifolium,5,Lupeol,IMPPAT3_PHYID000166,0.979,1
+Baliospermum solanifolium,6,Quercetin,IMPPAT3_PHYID000007,0.9778,0
+Baliospermum solanifolium,7,Daucosterol,IMPPAT3_PHYID000139,0.9776,4
+Baliospermum solanifolium,8,1-Hentriacontanol,IMPPAT3_PHYID000382,0.9731,0
+Baliospermum solanifolium,9,Hentriacontane,IMPPAT3_PHYID000249,0.973,0
+Baliospermum solanifolium,10,Palmitic acid,IMPPAT3_PHYID000072,0.9722,2
+Boerhavia diffusa,1,Daucosterol,IMPPAT3_PHYID000139,0.9956,4
+Boerhavia diffusa,2,Quercetin,IMPPAT3_PHYID000007,0.9941,3
+Boerhavia diffusa,3,Rutin,IMPPAT3_PHYID000270,0.9928,4
+Boerhavia diffusa,4,Kaempferol,IMPPAT3_PHYID000251,0.9915,3
+Boerhavia diffusa,5,Astragalin,IMPPAT3_PHYID000281,0.986,1
+Boerhavia diffusa,6,Gallic acid,IMPPAT3_PHYID000180,0.9853,1
+Boerhavia diffusa,7,Apigenin,IMPPAT3_PHYID000156,0.9846,0
+Boerhavia diffusa,8,Luteolin,IMPPAT3_PHYID000266,0.9839,1
+Boerhavia diffusa,9,Ellagic acid,IMPPAT3_PHYID000327,0.9836,0
+Boerhavia diffusa,10,Lupeol,IMPPAT3_PHYID000166,0.983,3
+Bombax ceiba,1,Daucosterol,IMPPAT3_PHYID000139,0.9927,4
+Bombax ceiba,2,Rutin,IMPPAT3_PHYID000270,0.9926,2
+Bombax ceiba,3,Ascorbic acid,IMPPAT3_PHYID000304,0.9902,2
+Bombax ceiba,4,Stigmasterol,IMPPAT3_PHYID000140,0.9897,3
+Bombax ceiba,5,Linolenic acid,IMPPAT3_PHYID000076,0.9893,3
+Bombax ceiba,6,Betulinic acid,IMPPAT3_PHYID000340,0.9865,1
+Bombax ceiba,7,Astragalin,IMPPAT3_PHYID000281,0.9858,1
+Bombax ceiba,8,4-Hydroxycinnamic acid,IMPPAT3_PHYID000244,0.9855,1
+Bombax ceiba,9,Ellagic acid,IMPPAT3_PHYID000327,0.9846,1
+Bombax ceiba,10,Luteolin,IMPPAT3_PHYID000266,0.9835,2
+Centella asiatica,1,Daucosterol,IMPPAT3_PHYID000139,0.9959,4
+Centella asiatica,2,Palmitic acid,IMPPAT3_PHYID000072,0.9952,4
+Centella asiatica,3,Linoleic acid,IMPPAT3_PHYID000077,0.9945,4
+Centella asiatica,4,Myristic acid,IMPPAT3_PHYID000071,0.9926,3
+Centella asiatica,5,Stearic acid,IMPPAT3_PHYID000073,0.9921,4
+Centella asiatica,6,Linolenic acid,IMPPAT3_PHYID000076,0.9887,1
+Centella asiatica,7,Lauric acid,IMPPAT3_PHYID000263,0.9854,1
+Centella asiatica,8,Oleanolic acid,IMPPAT3_PHYID000397,0.9829,1
+Centella asiatica,9,Rutin,IMPPAT3_PHYID000270,0.9827,2
+Centella asiatica,10,1-Octanol,IMPPAT3_PHYID000125,0.9779,2
+Cinnamomum tamala,1,Citral,IMPPAT3_PHYID000111,0.9827,4
+Cinnamomum tamala,2,Copaene,IMPPAT3_PHYID000704,0.9682,3
+Cinnamomum tamala,3,alpha-Bergamotene,IMPPAT3_PHYID000766,0.9681,1
+Cinnamomum tamala,4,"2-Furanmethanol, 5-ethenyltetrahydro-alpha,alpha,5-trimethyl-, cis-",IMPPAT3_PHYID000719,0.967,3
+Cinnamomum tamala,5,trans-alpha-Bergamotene,IMPPAT3_PHYID000428,0.967,1
+Cinnamomum tamala,6,Zizanene,IMPPAT3_PHYID000685,0.9662,4
+Cinnamomum tamala,7,Neryl acetate,IMPPAT3_PHYID000049,0.9644,3
+Cinnamomum tamala,8,beta-Farnesene,IMPPAT3_PHYID000112,0.9632,2
+Cinnamomum tamala,9,delta-Elemene,IMPPAT3_PHYID000425,0.9584,2
+Cinnamomum tamala,10,trans-Linalool oxide,IMPPAT3_PHYID000713,0.958,2
+Cinnamomum verum,1,(+)-gamma-Gurjunene,IMPPAT3_PHYID000605,0.9767,3
+Cinnamomum verum,2,cis-beta-Farnesene,IMPPAT3_PHYID000995,0.9751,5
+Cinnamomum verum,3,Ledol,IMPPAT3_PHYID000566,0.9702,3
+Cinnamomum verum,4,cis-Nerolidol,IMPPAT3_PHYID000631,0.9692,3
+Cinnamomum verum,5,Guaiol,IMPPAT3_PHYID000624,0.9671,3
+Cinnamomum verum,6,gamma-Elemene,IMPPAT3_PHYID000427,0.962,2
+Cinnamomum verum,7,(Z)-p-Menth-2-en-1-ol,IMPPAT3_PHYID000655,0.9443,1
+Cinnamomum verum,8,(Z)-alpha-Bisabolene,IMPPAT3_PHYID000767,0.9428,2
+Cinnamomum verum,9,Cubebol,IMPPAT3_PHYID000554,0.9417,2
+Cinnamomum verum,10,tau-muurolene,IMPPAT3_PHYID001586,0.9376,1
+Clitoria ternatea,1,Stigmasterol,IMPPAT3_PHYID000140,0.9964,4
+Clitoria ternatea,2,Daucosterol,IMPPAT3_PHYID000139,0.9951,4
+Clitoria ternatea,3,Rutin,IMPPAT3_PHYID000270,0.9944,4
+Clitoria ternatea,4,D-Glucose,IMPPAT3_PHYID000002,0.9899,2
+Clitoria ternatea,5,Apigenin,IMPPAT3_PHYID000156,0.9896,2
+Clitoria ternatea,6,Ellagic acid,IMPPAT3_PHYID000327,0.9891,1
+Clitoria ternatea,7,Luteolin,IMPPAT3_PHYID000266,0.9889,2
+Clitoria ternatea,8,Hyperoside,IMPPAT3_PHYID000005,0.9888,2
+Clitoria ternatea,9,Lupeol,IMPPAT3_PHYID000166,0.9883,3
+Clitoria ternatea,10,Isoquercitrin,IMPPAT3_PHYID000282,0.9882,1
+Convolvulus prostratus,1,Palmitic acid,IMPPAT3_PHYID000072,0.9965,3
+Convolvulus prostratus,2,Daucosterol,IMPPAT3_PHYID000139,0.995,3
+Convolvulus prostratus,3,Stearic acid,IMPPAT3_PHYID000073,0.9938,3
+Convolvulus prostratus,4,Linoleic acid,IMPPAT3_PHYID000077,0.9934,1
+Convolvulus prostratus,5,Myristic acid,IMPPAT3_PHYID000071,0.9927,2
+Convolvulus prostratus,6,Stigmasterol,IMPPAT3_PHYID000140,0.9915,3
+Convolvulus prostratus,7,D-Glucose,IMPPAT3_PHYID000002,0.9907,2
+Convolvulus prostratus,8,Oleic acid,IMPPAT3_PHYID000075,0.99,1
+Convolvulus prostratus,9,Quercetin,IMPPAT3_PHYID000007,0.9889,2
+Convolvulus prostratus,10,Oleanolic acid,IMPPAT3_PHYID000397,0.9877,1
+Curculigo orchioides,1,Quercetin,IMPPAT3_PHYID000007,0.993,3
+Curculigo orchioides,2,Daucosterol,IMPPAT3_PHYID000139,0.9926,4
+Curculigo orchioides,3,Stearic acid,IMPPAT3_PHYID000073,0.9899,2
+Curculigo orchioides,4,Kaempferol,IMPPAT3_PHYID000251,0.9826,2
+Curculigo orchioides,5,Luteolin,IMPPAT3_PHYID000266,0.982,1
+Curculigo orchioides,6,Lupeol,IMPPAT3_PHYID000166,0.9792,1
+Curculigo orchioides,7,Rutin,IMPPAT3_PHYID000270,0.9789,3
+Curculigo orchioides,8,Betulinic acid,IMPPAT3_PHYID000340,0.9738,0
+Curculigo orchioides,9,Ellagic acid,IMPPAT3_PHYID000327,0.9713,1
+Curculigo orchioides,10,Gallic acid,IMPPAT3_PHYID000180,0.97,0
+Curcuma longa,1,alpha-Copaene,IMPPAT3_PHYID000022,0.9819,3
+Curcuma longa,2,Elemol,IMPPAT3_PHYID000682,0.981,1
+Curcuma longa,3,(+)-gamma-Cadinene,IMPPAT3_PHYID000235,0.9806,2
+Curcuma longa,4,gamma-Eudesmol,IMPPAT3_PHYID000607,0.9776,1
+Curcuma longa,5,gamma-Muurolene,IMPPAT3_PHYID000239,0.9769,1
+Curcuma longa,6,(-)-alpha-Cadinol,IMPPAT3_PHYID000438,0.9751,2
+Curcuma longa,7,(+)-gamma-Gurjunene,IMPPAT3_PHYID000605,0.9747,0
+Curcuma longa,8,Sabinene hydrate,IMPPAT3_PHYID000617,0.9724,1
+Curcuma longa,9,Nerol,IMPPAT3_PHYID000417,0.972,2
+Curcuma longa,10,beta-Selinene,IMPPAT3_PHYID000241,0.9694,1
+Cyperus rotundus,1,(+)-beta-Phellandrene,IMPPAT3_PHYID000597,0.9898,5
+Cyperus rotundus,2,Cedrelanol,IMPPAT3_PHYID000572,0.9896,4
+Cyperus rotundus,3,gamma-Eudesmol,IMPPAT3_PHYID000607,0.9815,3
+Cyperus rotundus,4,Bicyclogermacrene,IMPPAT3_PHYID000525,0.9802,2
+Cyperus rotundus,5,trans-alpha-Bergamotene,IMPPAT3_PHYID000428,0.9801,3
+Cyperus rotundus,6,beta-Bisabolene,IMPPAT3_PHYID000526,0.9792,2
+Cyperus rotundus,7,alpha-Terpinene,IMPPAT3_PHYID000615,0.9745,1
+Cyperus rotundus,8,Sabinene hydrate,IMPPAT3_PHYID000617,0.9736,3
+Cyperus rotundus,9,germacrene d-4-ol,IMPPAT3_PHYID000060,0.9711,1
+Cyperus rotundus,10,Nerolidol,IMPPAT3_PHYID000114,0.9704,1
+Dalbergia latifolia,1,Palmitic acid,IMPPAT3_PHYID000072,0.9932,3
+Dalbergia latifolia,2,Stearic acid,IMPPAT3_PHYID000073,0.9915,0
+Dalbergia latifolia,3,Stigmasterol,IMPPAT3_PHYID000140,0.9874,3
+Dalbergia latifolia,4,Daucosterol,IMPPAT3_PHYID000139,0.9871,4
+Dalbergia latifolia,5,Oleic acid,IMPPAT3_PHYID000075,0.9866,1
+Dalbergia latifolia,6,Linolenic acid,IMPPAT3_PHYID000076,0.9853,0
+Dalbergia latifolia,7,Quercetin,IMPPAT3_PHYID000007,0.9853,0
+Dalbergia latifolia,8,Linoleic acid,IMPPAT3_PHYID000077,0.984,1
+Dalbergia latifolia,9,Myristic acid,IMPPAT3_PHYID000071,0.9835,1
+Dalbergia latifolia,10,Gallic acid,IMPPAT3_PHYID000180,0.9834,0
+Dalbergia sissoo,1,Lupeol,IMPPAT3_PHYID000166,0.9947,3
+Dalbergia sissoo,2,beta-Sitosterol,IMPPAT3_PHYID000018,0.9879,3
+Dalbergia sissoo,3,Ascorbic acid,IMPPAT3_PHYID000304,0.9874,1
+Dalbergia sissoo,4,Quercetin,IMPPAT3_PHYID000007,0.9821,1
+Dalbergia sissoo,5,D-Glucose,IMPPAT3_PHYID000002,0.9819,1
+Dalbergia sissoo,6,Gallic acid,IMPPAT3_PHYID000180,0.9768,0
+Dalbergia sissoo,7,Lauric acid,IMPPAT3_PHYID000263,0.9761,1
+Dalbergia sissoo,8,Kaempferol,IMPPAT3_PHYID000251,0.9759,1
+Dalbergia sissoo,9,Betulinic acid,IMPPAT3_PHYID000340,0.9735,0
+Dalbergia sissoo,10,Ferulic acid,IMPPAT3_PHYID001075,0.9734,0
+Elettaria cardamomum,1,beta-Eudesmol,IMPPAT3_PHYID000567,0.9885,4
+Elettaria cardamomum,2,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",IMPPAT3_PHYID000025,0.9858,3
+Elettaria cardamomum,3,Allo-Aromadendrene,IMPPAT3_PHYID000524,0.9793,1
+Elettaria cardamomum,4,(+)-delta-Cadinene,IMPPAT3_PHYID000463,0.979,1
+Elettaria cardamomum,5,Elemol,IMPPAT3_PHYID000682,0.9789,1
+Elettaria cardamomum,6,(+)-alpha-Cadinene,IMPPAT3_PHYID000634,0.9789,2
+Elettaria cardamomum,7,Viridiflorol,IMPPAT3_PHYID000433,0.9779,2
+Elettaria cardamomum,8,beta-Bisabolene,IMPPAT3_PHYID000526,0.9765,1
+Elettaria cardamomum,9,gamma-Elemene,IMPPAT3_PHYID000427,0.9755,1
+Elettaria cardamomum,10,Carvacrol,IMPPAT3_PHYID000218,0.9731,2
+Embelia ribes,1,beta-Sitosterol,IMPPAT3_PHYID000018,0.9968,3
+Embelia ribes,2,Linoleic acid,IMPPAT3_PHYID000077,0.9912,1
+Embelia ribes,3,Oleic acid,IMPPAT3_PHYID000075,0.9911,0
+Embelia ribes,4,Daucosterol,IMPPAT3_PHYID000139,0.9903,4
+Embelia ribes,5,Ascorbic acid,IMPPAT3_PHYID000304,0.9884,0
+Embelia ribes,6,Stearic acid,IMPPAT3_PHYID000073,0.9883,1
+Embelia ribes,7,Myristic acid,IMPPAT3_PHYID000071,0.9878,1
+Embelia ribes,8,Stigmasterol,IMPPAT3_PHYID000140,0.9867,1
+Embelia ribes,9,Palmitic acid,IMPPAT3_PHYID000072,0.9861,3
+Embelia ribes,10,Kaempferol,IMPPAT3_PHYID000251,0.986,1
+Embelia tsjeriam-cottam,1,arjunglucoside I,IMPPAT3_PHYID002085,0.9341,0
+Embelia tsjeriam-cottam,2,Baicalein 6-glucoside,IMPPAT3_PHYID013344,0.9294,0
+Embelia tsjeriam-cottam,3,Chebulagic acid,IMPPAT3_PHYID003100,0.9242,0
+Embelia tsjeriam-cottam,4,"(4aS,6aR,6aR,6bR,7R,8aR,9R,10R,11R,12aR,14bS)-7,10,11-trihydroxy-9-(hydroxymethyl)-2,2,6a,6b,9,12a-hexamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid",IMPPAT3_PHYID016458,0.9188,0
+Embelia tsjeriam-cottam,5,"2alpha,3beta,23-trihydroxyolean-12-en-28-oic acid 28-O-beta-D-glucopynoside",IMPPAT3_PHYID014822,0.9176,0
+Embelia tsjeriam-cottam,6,Arjungenin,IMPPAT3_PHYID016450,0.9094,0
+Embelia tsjeriam-cottam,7,Scutellarein 7-rutinoside,IMPPAT3_PHYID013343,0.9089,0
+Embelia tsjeriam-cottam,8,Aloe emodin,IMPPAT3_PHYID002101,0.8962,0
+Embelia tsjeriam-cottam,9,Punicalin,IMPPAT3_PHYID014751,0.8948,0
+Embelia tsjeriam-cottam,10,Bellericagenin B,IMPPAT3_PHYID016459,0.8947,0
+Ficus racemosa,1,Palmitic acid,IMPPAT3_PHYID000072,0.9954,3
+Ficus racemosa,2,Stearic acid,IMPPAT3_PHYID000073,0.9951,3
+Ficus racemosa,3,Linoleic acid,IMPPAT3_PHYID000077,0.9934,2
+Ficus racemosa,4,Oleic acid,IMPPAT3_PHYID000075,0.9911,2
+Ficus racemosa,5,Myristic acid,IMPPAT3_PHYID000071,0.9903,1
+Ficus racemosa,6,Quercetin,IMPPAT3_PHYID000007,0.9891,0
+Ficus racemosa,7,Gallic acid,IMPPAT3_PHYID000180,0.9879,3
+Ficus racemosa,8,Astragalin,IMPPAT3_PHYID000281,0.9867,1
+Ficus racemosa,9,Linolenic acid,IMPPAT3_PHYID000076,0.9842,1
+Ficus racemosa,10,Rutin,IMPPAT3_PHYID000270,0.984,1
+Glycyrrhiza glabra,1,Palmitic acid,IMPPAT3_PHYID000072,0.9796,2
+Glycyrrhiza glabra,2,Arachidic acid,IMPPAT3_PHYID000195,0.9786,2
+Glycyrrhiza glabra,3,Linoleic acid,IMPPAT3_PHYID000077,0.9695,0
+Glycyrrhiza glabra,4,Docosanoic acid,IMPPAT3_PHYID000196,0.9682,1
+Glycyrrhiza glabra,5,Stearic acid,IMPPAT3_PHYID000073,0.962,1
+Glycyrrhiza glabra,6,Oleic acid,IMPPAT3_PHYID000075,0.9572,0
+Glycyrrhiza glabra,7,Ascorbic acid,IMPPAT3_PHYID000304,0.9492,1
+Glycyrrhiza glabra,8,1-Hexadecanol,IMPPAT3_PHYID000450,0.9409,0
+Glycyrrhiza glabra,9,Benzyl acetate,IMPPAT3_PHYID001502,0.9398,2
+Glycyrrhiza glabra,10,2-Decenal,IMPPAT3_PHYID000859,0.939,1
+Gymnema sylvestre,1,Docosanoic acid,IMPPAT3_PHYID000196,0.9921,4
+Gymnema sylvestre,2,Linoleic acid,IMPPAT3_PHYID000077,0.9909,3
+Gymnema sylvestre,3,Oleic acid,IMPPAT3_PHYID000075,0.9875,2
+Gymnema sylvestre,4,Lauric acid,IMPPAT3_PHYID000263,0.9865,2
+Gymnema sylvestre,5,Linolenic acid,IMPPAT3_PHYID000076,0.9852,2
+Gymnema sylvestre,6,beta-Sitosterol,IMPPAT3_PHYID000018,0.9842,2
+Gymnema sylvestre,7,Arachidic acid,IMPPAT3_PHYID000195,0.9814,2
+Gymnema sylvestre,8,1-Octacosanol,IMPPAT3_PHYID000168,0.98,3
+Gymnema sylvestre,9,Betulinic acid,IMPPAT3_PHYID000340,0.9795,2
+Gymnema sylvestre,10,1-Hentriacontanol,IMPPAT3_PHYID000382,0.9772,1
+Holostemma ada-kodien,1,Daucosterol,IMPPAT3_PHYID000139,0.9991,5
+Holostemma ada-kodien,2,Stigmasterol,IMPPAT3_PHYID000140,0.9982,4
+Holostemma ada-kodien,3,Palmitic acid,IMPPAT3_PHYID000072,0.9967,5
+Holostemma ada-kodien,4,Stearic acid,IMPPAT3_PHYID000073,0.9947,2
+Holostemma ada-kodien,5,Quercetin,IMPPAT3_PHYID000007,0.9932,2
+Holostemma ada-kodien,6,Oleic acid,IMPPAT3_PHYID000075,0.9929,1
+Holostemma ada-kodien,7,Linoleic acid,IMPPAT3_PHYID000077,0.9929,2
+Holostemma ada-kodien,8,D-Glucose,IMPPAT3_PHYID000002,0.9919,1
+Holostemma ada-kodien,9,Kaempferol,IMPPAT3_PHYID000251,0.9918,3
+Holostemma ada-kodien,10,Rutin,IMPPAT3_PHYID000270,0.9911,2
+Ipomoea mauritiana,1,Daucosterol,IMPPAT3_PHYID000139,0.9965,4
+Ipomoea mauritiana,2,Stigmasterol,IMPPAT3_PHYID000140,0.9951,4
+Ipomoea mauritiana,3,Stearic acid,IMPPAT3_PHYID000073,0.9947,3
+Ipomoea mauritiana,4,Quercetin,IMPPAT3_PHYID000007,0.9944,2
+Ipomoea mauritiana,5,Kaempferol,IMPPAT3_PHYID000251,0.9933,3
+Ipomoea mauritiana,6,Rutin,IMPPAT3_PHYID000270,0.9931,2
+Ipomoea mauritiana,7,D-Glucose,IMPPAT3_PHYID000002,0.9906,2
+Ipomoea mauritiana,8,Myristic acid,IMPPAT3_PHYID000071,0.9894,2
+Ipomoea mauritiana,9,Astragalin,IMPPAT3_PHYID000281,0.9893,2
+Ipomoea mauritiana,10,Lupeol,IMPPAT3_PHYID000166,0.9892,2
+Leptadenia reticulata,1,Daucosterol,IMPPAT3_PHYID000139,0.9992,5
+Leptadenia reticulata,2,Kaempferol,IMPPAT3_PHYID000251,0.9945,2
+Leptadenia reticulata,3,Betulinic acid,IMPPAT3_PHYID000340,0.9926,4
+Leptadenia reticulata,4,Gallic acid,IMPPAT3_PHYID000180,0.9916,2
+Leptadenia reticulata,5,Stearic acid,IMPPAT3_PHYID000073,0.9915,2
+Leptadenia reticulata,6,Palmitic acid,IMPPAT3_PHYID000072,0.9913,3
+Leptadenia reticulata,7,Ellagic acid,IMPPAT3_PHYID000327,0.9912,2
+Leptadenia reticulata,8,Linoleic acid,IMPPAT3_PHYID000077,0.9911,1
+Leptadenia reticulata,9,Astragalin,IMPPAT3_PHYID000281,0.9908,2
+Leptadenia reticulata,10,Oleanolic acid,IMPPAT3_PHYID000397,0.989,2
+Mesua ferrea,1,Terpinolene,IMPPAT3_PHYID000414,0.9992,5
+Mesua ferrea,2,Nerol,IMPPAT3_PHYID000417,0.9881,3
+Mesua ferrea,3,Citral,IMPPAT3_PHYID000111,0.9879,2
+Mesua ferrea,4,(+)-gamma-Cadinene,IMPPAT3_PHYID000235,0.9799,2
+Mesua ferrea,5,gamma-Terpinene,IMPPAT3_PHYID000220,0.9799,0
+Mesua ferrea,6,Camphene,IMPPAT3_PHYID000163,0.9769,3
+Mesua ferrea,7,alpha-Pinene,IMPPAT3_PHYID000153,0.9754,1
+Mesua ferrea,8,(+)-alpha-Cadinene,IMPPAT3_PHYID000634,0.9747,0
+Mesua ferrea,9,Linalyl acetate,IMPPAT3_PHYID000231,0.9733,1
+Mesua ferrea,10,beta-Pinene,IMPPAT3_PHYID000159,0.9724,0
+Moringa oleifera,1,beta-Caryophyllene,IMPPAT3_PHYID000023,0.9899,4
+Moringa oleifera,2,Linolenic acid,IMPPAT3_PHYID000076,0.9884,4
+Moringa oleifera,3,Daucosterol,IMPPAT3_PHYID000139,0.9823,4
+Moringa oleifera,4,Citral,IMPPAT3_PHYID000111,0.9741,2
+Moringa oleifera,5,beta-Elemene,IMPPAT3_PHYID000236,0.974,2
+Moringa oleifera,6,Terpinolene,IMPPAT3_PHYID000414,0.9715,1
+Moringa oleifera,7,Camphor,IMPPAT3_PHYID000579,0.9686,1
+Moringa oleifera,8,Eucalyptol,IMPPAT3_PHYID000225,0.9664,2
+Moringa oleifera,9,1-Hexanol,IMPPAT3_PHYID000853,0.9655,0
+Moringa oleifera,10,Thymol,IMPPAT3_PHYID000217,0.9648,2
+Myristica fragrans,1,(+)-gamma-Cadinene,IMPPAT3_PHYID000235,0.9851,4
+Myristica fragrans,2,(+)-alpha-Cadinene,IMPPAT3_PHYID000634,0.9791,3
+Myristica fragrans,3,Citral,IMPPAT3_PHYID000111,0.9743,2
+Myristica fragrans,4,Caryophyllene oxide,IMPPAT3_PHYID000242,0.9739,2
+Myristica fragrans,5,Viridiflorol,IMPPAT3_PHYID000433,0.9707,1
+Myristica fragrans,6,cis-beta-Farnesene,IMPPAT3_PHYID000995,0.9693,1
+Myristica fragrans,7,Valencene,IMPPAT3_PHYID000553,0.9666,2
+Myristica fragrans,8,tau-Cadinol,IMPPAT3_PHYID000571,0.964,2
+Myristica fragrans,9,gamma-Elemene,IMPPAT3_PHYID000427,0.9623,2
+Myristica fragrans,10,1-Octen-3-OL,IMPPAT3_PHYID000614,0.9598,0
+Ocimum tenuiflorum,1,"(1S,2S,6S,7R,8R)-1,3-dimethyl-8-propan-2-yltricyclo[4.4.0.02,7]dec-3-ene",IMPPAT3_PHYID000549,0.9695,4
+Ocimum tenuiflorum,2,delta-Cadinol,IMPPAT3_PHYID000695,0.9627,3
+Ocimum tenuiflorum,3,3-Carene,IMPPAT3_PHYID000150,0.9561,3
+Ocimum tenuiflorum,4,Cedrol,IMPPAT3_PHYID000981,0.9548,3
+Ocimum tenuiflorum,5,Copaene,IMPPAT3_PHYID000704,0.9532,2
+Ocimum tenuiflorum,6,Myristic acid,IMPPAT3_PHYID000071,0.9512,3
+Ocimum tenuiflorum,7,gamma-Terpineol,IMPPAT3_PHYID001278,0.9492,1
+Ocimum tenuiflorum,8,alpha-Terpinyl acetate,IMPPAT3_PHYID000016,0.9453,2
+Ocimum tenuiflorum,9,Pinocarvone,IMPPAT3_PHYID000598,0.9438,2
+Ocimum tenuiflorum,10,D-Glucose,IMPPAT3_PHYID000002,0.94,1
+Operculina turpethum,1,Daucosterol,IMPPAT3_PHYID000139,0.9972,4
+Operculina turpethum,2,Stigmasterol,IMPPAT3_PHYID000140,0.9959,4
+Operculina turpethum,3,Quercetin,IMPPAT3_PHYID000007,0.9947,4
+Operculina turpethum,4,Rutin,IMPPAT3_PHYID000270,0.9933,3
+Operculina turpethum,5,Gallic acid,IMPPAT3_PHYID000180,0.9928,2
+Operculina turpethum,6,Palmitic acid,IMPPAT3_PHYID000072,0.9927,2
+Operculina turpethum,7,Stearic acid,IMPPAT3_PHYID000073,0.9926,3
+Operculina turpethum,8,Linoleic acid,IMPPAT3_PHYID000077,0.9924,2
+Operculina turpethum,9,Kaempferol,IMPPAT3_PHYID000251,0.992,1
+Operculina turpethum,10,Oleic acid,IMPPAT3_PHYID000075,0.9908,1
+Oroxylum indicum,1,Quercetin,IMPPAT3_PHYID000007,0.9917,3
+Oroxylum indicum,2,Luteolin,IMPPAT3_PHYID000266,0.9895,2
+Oroxylum indicum,3,Stigmasterol,IMPPAT3_PHYID000140,0.9894,2
+Oroxylum indicum,4,Rutin,IMPPAT3_PHYID000270,0.9889,2
+Oroxylum indicum,5,Kaempferol,IMPPAT3_PHYID000251,0.9885,1
+Oroxylum indicum,6,Daucosterol,IMPPAT3_PHYID000139,0.9876,3
+Oroxylum indicum,7,Apigenin,IMPPAT3_PHYID000156,0.9868,0
+Oroxylum indicum,8,Gallic acid,IMPPAT3_PHYID000180,0.9831,0
+Oroxylum indicum,9,Lupeol,IMPPAT3_PHYID000166,0.983,2
+Oroxylum indicum,10,Docosanoic acid,IMPPAT3_PHYID000196,0.9816,1
+Pedalium murex,1,Daucosterol,IMPPAT3_PHYID000139,0.9991,5
+Pedalium murex,2,Stigmasterol,IMPPAT3_PHYID000140,0.9967,4
+Pedalium murex,3,Palmitic acid,IMPPAT3_PHYID000072,0.994,1
+Pedalium murex,4,Gallic acid,IMPPAT3_PHYID000180,0.9937,3
+Pedalium murex,5,Stearic acid,IMPPAT3_PHYID000073,0.9935,3
+Pedalium murex,6,Linoleic acid,IMPPAT3_PHYID000077,0.9935,2
+Pedalium murex,7,Kaempferol,IMPPAT3_PHYID000251,0.9929,3
+Pedalium murex,8,Myristic acid,IMPPAT3_PHYID000071,0.9926,2
+Pedalium murex,9,Oleic acid,IMPPAT3_PHYID000075,0.9921,1
+Pedalium murex,10,Rutin,IMPPAT3_PHYID000270,0.9895,0
+Phyllanthus amarus,1,Myristic acid,IMPPAT3_PHYID000071,0.9935,3
+Phyllanthus amarus,2,Stearic acid,IMPPAT3_PHYID000073,0.993,3
+Phyllanthus amarus,3,Palmitic acid,IMPPAT3_PHYID000072,0.993,4
+Phyllanthus amarus,4,Oleic acid,IMPPAT3_PHYID000075,0.9885,1
+Phyllanthus amarus,5,Lauric acid,IMPPAT3_PHYID000263,0.9871,4
+Phyllanthus amarus,6,alpha-Pinene,IMPPAT3_PHYID000153,0.9729,1
+Phyllanthus amarus,7,1-Hexanol,IMPPAT3_PHYID000853,0.9718,2
+Phyllanthus amarus,8,Hexanal,IMPPAT3_PHYID000108,0.9707,2
+Phyllanthus amarus,9,Terpinolene,IMPPAT3_PHYID000414,0.969,1
+Phyllanthus amarus,10,Oxalic acid,IMPPAT3_PHYID000064,0.9689,1
+Phyllanthus emblica,1,Pentagalloylglucose,IMPPAT3_PHYID004977,0.9917,3
+Phyllanthus emblica,2,Daucosterol,IMPPAT3_PHYID000139,0.9912,4
+Phyllanthus emblica,3,Rutin,IMPPAT3_PHYID000270,0.9898,1
+Phyllanthus emblica,4,Betulinic acid,IMPPAT3_PHYID000340,0.9871,3
+Phyllanthus emblica,5,Stigmasterol,IMPPAT3_PHYID000140,0.987,2
+Phyllanthus emblica,6,D-Galactose,IMPPAT3_PHYID000011,0.9863,3
+Phyllanthus emblica,7,Maslinic acid,IMPPAT3_PHYID000172,0.9815,2
+Phyllanthus emblica,8,Betulin,IMPPAT3_PHYID000353,0.9802,1
+Phyllanthus emblica,9,alpha-Amyrin,IMPPAT3_PHYID000243,0.9798,1
+Phyllanthus emblica,10,Luteolin,IMPPAT3_PHYID000266,0.9798,0
+Phyllanthus urinaria,1,Stigmasterol,IMPPAT3_PHYID000140,0.9947,4
+Phyllanthus urinaria,2,Stearic acid,IMPPAT3_PHYID000073,0.9934,4
+Phyllanthus urinaria,3,Betulinic acid,IMPPAT3_PHYID000340,0.9926,3
+Phyllanthus urinaria,4,Linoleic acid,IMPPAT3_PHYID000077,0.9916,3
+Phyllanthus urinaria,5,Oleic acid,IMPPAT3_PHYID000075,0.9911,1
+Phyllanthus urinaria,6,Oleanolic acid,IMPPAT3_PHYID000397,0.9906,3
+Phyllanthus urinaria,7,Linolenic acid,IMPPAT3_PHYID000076,0.9893,1
+Phyllanthus urinaria,8,Palmitic acid,IMPPAT3_PHYID000072,0.989,3
+Phyllanthus urinaria,9,Luteolin,IMPPAT3_PHYID000266,0.9874,2
+Phyllanthus urinaria,10,Myristic acid,IMPPAT3_PHYID000071,0.9863,1
+Piper retrofractum,1,Palmitic acid,IMPPAT3_PHYID000072,0.9934,3
+Piper retrofractum,2,Betulinic acid,IMPPAT3_PHYID000340,0.9925,2
+Piper retrofractum,3,Kaempferol,IMPPAT3_PHYID000251,0.9909,2
+Piper retrofractum,4,Stearic acid,IMPPAT3_PHYID000073,0.9904,2
+Piper retrofractum,5,Linoleic acid,IMPPAT3_PHYID000077,0.9903,2
+Piper retrofractum,6,Oleic acid,IMPPAT3_PHYID000075,0.9896,0
+Piper retrofractum,7,Luteolin,IMPPAT3_PHYID000266,0.989,2
+Piper retrofractum,8,Stigmasterol,IMPPAT3_PHYID000140,0.9886,2
+Piper retrofractum,9,Ursolic acid,IMPPAT3_PHYID000149,0.9884,1
+Piper retrofractum,10,Daucosterol,IMPPAT3_PHYID000139,0.9883,1
+Piper sarmentosum,1,alpha-Pinene,IMPPAT3_PHYID000153,0.9967,3
+Piper sarmentosum,2,Camphene,IMPPAT3_PHYID000163,0.9959,3
+Piper sarmentosum,3,Caryophyllene oxide,IMPPAT3_PHYID000242,0.9947,4
+Piper sarmentosum,4,Nerolidol,IMPPAT3_PHYID000114,0.9945,3
+Piper sarmentosum,5,4-Carvomenthenol,IMPPAT3_PHYID000228,0.9888,1
+Piper sarmentosum,6,beta-Pinene,IMPPAT3_PHYID000159,0.9868,0
+Piper sarmentosum,7,"(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",IMPPAT3_PHYID000025,0.9849,1
+Piper sarmentosum,8,Myrcene,IMPPAT3_PHYID000213,0.9838,2
+Piper sarmentosum,9,Palmitic acid,IMPPAT3_PHYID000072,0.9834,1
+Piper sarmentosum,10,beta-Elemene,IMPPAT3_PHYID000236,0.9829,1
+Plumbago zeylanica,1,Stigmasterol,IMPPAT3_PHYID000140,0.9965,3
+Plumbago zeylanica,2,Palmitic acid,IMPPAT3_PHYID000072,0.9945,4
+Plumbago zeylanica,3,Kaempferol,IMPPAT3_PHYID000251,0.9935,2
+Plumbago zeylanica,4,Luteolin,IMPPAT3_PHYID000266,0.9916,3
+Plumbago zeylanica,5,Betulinic acid,IMPPAT3_PHYID000340,0.9909,3
+Plumbago zeylanica,6,Linoleic acid,IMPPAT3_PHYID000077,0.9898,0
+Plumbago zeylanica,7,Oleic acid,IMPPAT3_PHYID000075,0.9892,1
+Plumbago zeylanica,8,Oleanolic acid,IMPPAT3_PHYID000397,0.988,2
+Plumbago zeylanica,9,Daucosterol,IMPPAT3_PHYID000139,0.9871,3
+Plumbago zeylanica,10,Stearic acid,IMPPAT3_PHYID000073,0.9865,0
+Pseudarthria viscida,1,Citric acid,IMPPAT3_PHYID000303,0.891,0
+Pseudarthria viscida,2,alpha-Amyrin,IMPPAT3_PHYID000243,0.8821,0
+Pseudarthria viscida,3,Daucosterol,IMPPAT3_PHYID000139,0.8708,2
+Pseudarthria viscida,4,Stigmasterol glucoside,IMPPAT3_PHYID000532,0.8634,0
+Pseudarthria viscida,5,Isoquercitrin,IMPPAT3_PHYID000282,0.8566,0
+Pseudarthria viscida,6,Sarsasapogenin,IMPPAT3_PHYID002712,0.8494,0
+Pseudarthria viscida,7,Maslinic acid,IMPPAT3_PHYID000172,0.8408,0
+Pseudarthria viscida,8,Ergosterol,IMPPAT3_PHYID000141,0.84,0
+Pseudarthria viscida,9,"3,5,7-trihydroxy-6-[(2S,3R,4R,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]-2-(2,4,5-trihydroxyphenyl)chromen-4-one",IMPPAT3_PHYID004715,0.8355,0
+Pseudarthria viscida,10,beta-Sitosterol,IMPPAT3_PHYID000018,0.8241,4
+Symplocos racemosa,1,Daucosterol,IMPPAT3_PHYID000139,0.9971,4
+Symplocos racemosa,2,Stigmasterol,IMPPAT3_PHYID000140,0.996,4
+Symplocos racemosa,3,Lupeol,IMPPAT3_PHYID000166,0.9941,3
+Symplocos racemosa,4,Quercetin,IMPPAT3_PHYID000007,0.9926,3
+Symplocos racemosa,5,Palmitic acid,IMPPAT3_PHYID000072,0.991,3
+Symplocos racemosa,6,Kaempferol,IMPPAT3_PHYID000251,0.9909,3
+Symplocos racemosa,7,Astragalin,IMPPAT3_PHYID000281,0.9894,2
+Symplocos racemosa,8,Stearic acid,IMPPAT3_PHYID000073,0.9884,2
+Symplocos racemosa,9,4-Hydroxycinnamic acid,IMPPAT3_PHYID000244,0.9881,0
+Symplocos racemosa,10,Gallic acid,IMPPAT3_PHYID000180,0.9871,0
+Syzygium aromaticum,1,(+)-alpha-Cadinene,IMPPAT3_PHYID000634,0.989,2
+Syzygium aromaticum,2,Citral,IMPPAT3_PHYID000111,0.9882,4
+Syzygium aromaticum,3,Aromadendrene,IMPPAT3_PHYID000429,0.9758,1
+Syzygium aromaticum,4,alpha-Muurolol,IMPPAT3_PHYID000468,0.9696,1
+Syzygium aromaticum,5,Viridiflorol,IMPPAT3_PHYID000433,0.9671,0
+Syzygium aromaticum,6,beta-Eudesmol,IMPPAT3_PHYID000567,0.9656,1
+Syzygium aromaticum,7,1-Octanol,IMPPAT3_PHYID000125,0.9653,3
+Syzygium aromaticum,8,(+)-gamma-Gurjunene,IMPPAT3_PHYID000605,0.9648,0
+Syzygium aromaticum,9,Neryl acetate,IMPPAT3_PHYID000049,0.9634,1
+Syzygium aromaticum,10,gamma-Elemene,IMPPAT3_PHYID000427,0.9619,0
+Syzygium cumini,1,Linolenic acid,IMPPAT3_PHYID000076,0.9817,3
+Syzygium cumini,2,Thymol,IMPPAT3_PHYID000217,0.9809,3
+Syzygium cumini,3,Stigmasterol,IMPPAT3_PHYID000140,0.98,4
+Syzygium cumini,4,Valencene,IMPPAT3_PHYID000553,0.9762,1
+Syzygium cumini,5,Daucosterol,IMPPAT3_PHYID000139,0.9739,3
+Syzygium cumini,6,Sabinene,IMPPAT3_PHYID000211,0.9708,0
+Syzygium cumini,7,Cinnamaldehyde,IMPPAT3_PHYID000209,0.9695,0
+Syzygium cumini,8,2-(4-Methylphenyl)propan-2-ol,IMPPAT3_PHYID000664,0.9666,0
+Syzygium cumini,9,gamma-Muurolene,IMPPAT3_PHYID000239,0.9662,1
+Syzygium cumini,10,Viridiflorol,IMPPAT3_PHYID000433,0.964,1
+Tecomella undulata,1,Palmitic acid,IMPPAT3_PHYID000072,0.9965,5
+Tecomella undulata,2,Kaempferol,IMPPAT3_PHYID000251,0.9929,3
+Tecomella undulata,3,Linoleic acid,IMPPAT3_PHYID000077,0.9918,2
+Tecomella undulata,4,Gallic acid,IMPPAT3_PHYID000180,0.9909,1
+Tecomella undulata,5,Oleic acid,IMPPAT3_PHYID000075,0.9904,1
+Tecomella undulata,6,Stearic acid,IMPPAT3_PHYID000073,0.9904,2
+Tecomella undulata,7,Docosanoic acid,IMPPAT3_PHYID000196,0.9903,2
+Tecomella undulata,8,Astragalin,IMPPAT3_PHYID000281,0.99,2
+Tecomella undulata,9,Ellagic acid,IMPPAT3_PHYID000327,0.9896,1
+Tecomella undulata,10,Luteolin,IMPPAT3_PHYID000266,0.9893,2
+Terminalia arjuna,1,Daucosterol,IMPPAT3_PHYID000139,0.9947,4
+Terminalia arjuna,2,1-Octacosanol,IMPPAT3_PHYID000168,0.9866,1
+Terminalia arjuna,3,Stearic acid,IMPPAT3_PHYID000073,0.9833,0
+Terminalia arjuna,4,Betulinic acid,IMPPAT3_PHYID000340,0.9826,1
+Terminalia arjuna,5,Quercetin,IMPPAT3_PHYID000007,0.9826,0
+Terminalia arjuna,6,Stigmasterol,IMPPAT3_PHYID000140,0.9818,1
+Terminalia arjuna,7,Docosanoic acid,IMPPAT3_PHYID000196,0.9812,0
+Terminalia arjuna,8,Palmitic acid,IMPPAT3_PHYID000072,0.9803,1
+Terminalia arjuna,9,Kaempferol,IMPPAT3_PHYID000251,0.9787,1
+Terminalia arjuna,10,L-Rhamnose,IMPPAT3_PHYID000013,0.9784,1
+Terminalia bellirica,1,Daucosterol,IMPPAT3_PHYID000139,0.9981,5
+Terminalia bellirica,2,Maslinic acid,IMPPAT3_PHYID000172,0.9972,4
+Terminalia bellirica,3,Stigmasterol,IMPPAT3_PHYID000140,0.992,4
+Terminalia bellirica,4,Lupeol,IMPPAT3_PHYID000166,0.9918,4
+Terminalia bellirica,5,Arjunolic acid,IMPPAT3_PHYID000457,0.9915,1
+Terminalia bellirica,6,Stearic acid,IMPPAT3_PHYID000073,0.9912,2
+Terminalia bellirica,7,Quercetin,IMPPAT3_PHYID000007,0.9899,0
+Terminalia bellirica,8,Oleanolic acid,IMPPAT3_PHYID000397,0.9892,2
+Terminalia bellirica,9,Kaempferol,IMPPAT3_PHYID000251,0.9882,1
+Terminalia bellirica,10,Betulinic acid,IMPPAT3_PHYID000340,0.9879,3
+Terminalia chebula,1,Corilagin,IMPPAT3_PHYID000454,0.9921,3
+Terminalia chebula,2,Quercetin,IMPPAT3_PHYID000007,0.9904,2
+Terminalia chebula,3,1-Octacosanol,IMPPAT3_PHYID000168,0.9878,2
+Terminalia chebula,4,Kaempferol,IMPPAT3_PHYID000251,0.9876,1
+Terminalia chebula,5,Stigmasterol,IMPPAT3_PHYID000140,0.9865,2
+Terminalia chebula,6,Oleanolic acid,IMPPAT3_PHYID000397,0.9863,2
+Terminalia chebula,7,Betulinic acid,IMPPAT3_PHYID000340,0.9859,2
+Terminalia chebula,8,Rutin,IMPPAT3_PHYID000270,0.9854,2
+Terminalia chebula,9,Astragalin,IMPPAT3_PHYID000281,0.9853,0
+Terminalia chebula,10,Lupeol,IMPPAT3_PHYID000166,0.9852,3
+Terminalia paniculata,1,Daucosterol,IMPPAT3_PHYID000139,0.9983,4
+Terminalia paniculata,2,Stigmasterol,IMPPAT3_PHYID000140,0.9958,4
+Terminalia paniculata,3,Palmitic acid,IMPPAT3_PHYID000072,0.9945,2
+Terminalia paniculata,4,Quercetin,IMPPAT3_PHYID000007,0.994,4
+Terminalia paniculata,5,Kaempferol,IMPPAT3_PHYID000251,0.9939,3
+Terminalia paniculata,6,Lupeol,IMPPAT3_PHYID000166,0.9927,4
+Terminalia paniculata,7,D-Glucose,IMPPAT3_PHYID000002,0.9921,2
+Terminalia paniculata,8,Oleic acid,IMPPAT3_PHYID000075,0.992,1
+Terminalia paniculata,9,Linoleic acid,IMPPAT3_PHYID000077,0.9916,1
+Terminalia paniculata,10,Ellagic acid,IMPPAT3_PHYID000327,0.9915,3
+Tinospora sinensis,1,D-Glucose,IMPPAT3_PHYID000002,0.9923,3
+Tinospora sinensis,2,Stigmasterol,IMPPAT3_PHYID000140,0.9884,3
+Tinospora sinensis,3,Oleic acid,IMPPAT3_PHYID000075,0.9856,2
+Tinospora sinensis,4,Daucosterol,IMPPAT3_PHYID000139,0.9836,3
+Tinospora sinensis,5,Linoleic acid,IMPPAT3_PHYID000077,0.9828,2
+Tinospora sinensis,6,Quercetin,IMPPAT3_PHYID000007,0.982,2
+Tinospora sinensis,7,Stearic acid,IMPPAT3_PHYID000073,0.9803,1
+Tinospora sinensis,8,Gallic acid,IMPPAT3_PHYID000180,0.9793,0
+Tinospora sinensis,9,D-Galactose,IMPPAT3_PHYID000011,0.9762,1
+Tinospora sinensis,10,Myricetin,IMPPAT3_PHYID000085,0.9754,1
+Trianthema portulacastrum,1,beta-Sitosterol,IMPPAT3_PHYID000018,0.9982,5
+Trianthema portulacastrum,2,Linoleic acid,IMPPAT3_PHYID000077,0.9978,5
+Trianthema portulacastrum,3,Palmitic acid,IMPPAT3_PHYID000072,0.9975,4
+Trianthema portulacastrum,4,Myristic acid,IMPPAT3_PHYID000071,0.9957,3
+Trianthema portulacastrum,5,Stearic acid,IMPPAT3_PHYID000073,0.9951,3
+Trianthema portulacastrum,6,Stigmasterol,IMPPAT3_PHYID000140,0.994,3
+Trianthema portulacastrum,7,Oleic acid,IMPPAT3_PHYID000075,0.9928,2
+Trianthema portulacastrum,8,Lauric acid,IMPPAT3_PHYID000263,0.9912,1
+Trianthema portulacastrum,9,D-Glucose,IMPPAT3_PHYID000002,0.9911,1
+Trianthema portulacastrum,10,Linolenic acid,IMPPAT3_PHYID000076,0.9888,1
+Tribulus terrestris,1,Yamogenin,IMPPAT3_PHYID001390,0.9884,3
+Tribulus terrestris,2,Graecunin G,IMPPAT3_PHYID016770,0.9879,3
+Tribulus terrestris,3,Graecunin E,IMPPAT3_PHYID016769,0.986,1
+Tribulus terrestris,4,Apigenin,IMPPAT3_PHYID000156,0.9848,2
+Tribulus terrestris,5,Trigofoenoside G,IMPPAT3_PHYID016753,0.9829,1
+Tribulus terrestris,6,Lupeol,IMPPAT3_PHYID000166,0.9807,2
+Tribulus terrestris,7,beta-Sitosterol-beta-D-glucoside,IMPPAT3_PHYID000097,0.9797,0
+Tribulus terrestris,8,Trigonelloside C,IMPPAT3_PHYID004102,0.9795,0
+Tribulus terrestris,9,Trigoneoside XIIIa,IMPPAT3_PHYID016765,0.9795,1
+Tribulus terrestris,10,"(2R,3R,4S,5S,6R)-2-[(2S)-4-[(1R,2S,4S,7S,8R,9S,12S,13S,15R,16R,18S)-6,15-dihydroxy-7,9,13-trimethyl-16-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2S,3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl]oxymethyl]oxan-2-yl]oxy-5-oxapentacyclo[10.8.0.02,9.04,8.013,18]icosan-6-yl]-2-methylbutoxy]-6-(hydroxymethyl)oxane-3,4,5-triol",IMPPAT3_PHYID016756,0.9792,1
+Trigonella foenum-graecum,1,Humulene,IMPPAT3_PHYID000024,0.9868,2
+Trigonella foenum-graecum,2,Daucosterol,IMPPAT3_PHYID000139,0.9844,4
+Trigonella foenum-graecum,3,Lauric acid,IMPPAT3_PHYID000263,0.9833,1
+Trigonella foenum-graecum,4,Myristic acid,IMPPAT3_PHYID000071,0.9823,1
+Trigonella foenum-graecum,5,Rutin,IMPPAT3_PHYID000270,0.9806,1
+Trigonella foenum-graecum,6,Lupeol,IMPPAT3_PHYID000166,0.9795,2
+Trigonella foenum-graecum,7,Linalool,IMPPAT3_PHYID000226,0.9754,1
+Trigonella foenum-graecum,8,4-Carvomenthenol,IMPPAT3_PHYID000228,0.9752,1
+Trigonella foenum-graecum,9,Stigmasterol,IMPPAT3_PHYID000140,0.9749,4
+Trigonella foenum-graecum,10,D-Glucose,IMPPAT3_PHYID000002,0.9735,2
+Vitex negundo,1,Daucosterol,IMPPAT3_PHYID000139,0.9834,3
+Vitex negundo,2,Phytol,IMPPAT3_PHYID000476,0.9826,3
+Vitex negundo,3,Terpinolene,IMPPAT3_PHYID000414,0.9788,1
+Vitex negundo,4,Gallic acid,IMPPAT3_PHYID000180,0.9752,3
+Vitex negundo,5,Thymol,IMPPAT3_PHYID000217,0.9725,1
+Vitex negundo,6,beta-Elemene,IMPPAT3_PHYID000236,0.9699,1
+Vitex negundo,7,Nerol,IMPPAT3_PHYID000417,0.9676,2
+Vitex negundo,8,Oleanolic acid,IMPPAT3_PHYID000397,0.9632,1
+Vitex negundo,9,Coumarin,IMPPAT3_PHYID000348,0.9632,0
+Vitex negundo,10,Eugenol,IMPPAT3_PHYID000421,0.963,0
+Withania somnifera,1,Lupeol,IMPPAT3_PHYID000166,0.9806,2
+Withania somnifera,2,beta-Sitosterol-beta-D-glucoside,IMPPAT3_PHYID000097,0.976,2
+Withania somnifera,3,Campesterol,IMPPAT3_PHYID000098,0.9701,1
+Withania somnifera,4,Quercetin,IMPPAT3_PHYID000007,0.9651,1
+Withania somnifera,5,D-Galactose,IMPPAT3_PHYID000011,0.9632,1
+Withania somnifera,6,Kaempferol,IMPPAT3_PHYID000251,0.9612,1
+Withania somnifera,7,Ascorbic acid,IMPPAT3_PHYID000304,0.9587,0
+Withania somnifera,8,D-Xylose,IMPPAT3_PHYID000191,0.9556,1
+Withania somnifera,9,Betulinic acid,IMPPAT3_PHYID000340,0.9507,1
+Withania somnifera,10,1-Triacontanol,IMPPAT3_PHYID000087,0.9493,0
+Woodfordia fruticosa,1,Daucosterol,IMPPAT3_PHYID000139,0.9964,4
+Woodfordia fruticosa,2,Rutin,IMPPAT3_PHYID000270,0.9931,4
+Woodfordia fruticosa,3,Quercetin,IMPPAT3_PHYID000007,0.9913,2
+Woodfordia fruticosa,4,Stigmasterol,IMPPAT3_PHYID000140,0.9911,3
+Woodfordia fruticosa,5,beta-Glucogallin,IMPPAT3_PHYID000329,0.9879,3
+Woodfordia fruticosa,6,Corilagin,IMPPAT3_PHYID000454,0.9858,3
+Woodfordia fruticosa,7,alpha-Amyrin,IMPPAT3_PHYID000243,0.9841,1
+Woodfordia fruticosa,8,Ethyl gallate,IMPPAT3_PHYID000331,0.9832,3
+Woodfordia fruticosa,9,Chebulagic acid,IMPPAT3_PHYID003100,0.9821,2
+Woodfordia fruticosa,10,Apigenin,IMPPAT3_PHYID000156,0.9814,1
+Zingiber officinale,1,(-)-alpha-Cadinol,IMPPAT3_PHYID000438,0.9843,4
+Zingiber officinale,2,"2-Cyclohexen-1-ol, 1-methyl-4-(1-methylethyl)-, trans-",IMPPAT3_PHYID000651,0.9665,3
+Zingiber officinale,3,trans-Sabinene hydrate,IMPPAT3_PHYID000672,0.9664,3
+Zingiber officinale,4,Guaiol,IMPPAT3_PHYID000624,0.9564,2
+Zingiber officinale,5,(Z)-alpha-Bisabolene,IMPPAT3_PHYID000767,0.9505,2
+Zingiber officinale,6,Bicyclogermacrene,IMPPAT3_PHYID000525,0.9503,3
+Zingiber officinale,7,Carvone,IMPPAT3_PHYID000164,0.9502,0
+Zingiber officinale,8,gamma-Terpineol,IMPPAT3_PHYID001278,0.9493,1
+Zingiber officinale,9,T-Muurolol,IMPPAT3_PHYID000625,0.9445,2
+Zingiber officinale,10,Ledol,IMPPAT3_PHYID000566,0.9404,2
